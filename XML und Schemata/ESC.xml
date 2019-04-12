@@ -1,0 +1,2409 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ESC xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:noNamespaceSchemaLocation="ESC.xsd">
+
+<Contest Jahr ="2010">
+    
+    <Logo> ..\Bilder\Logos\2010.jpg </Logo>
+    <Bühnenbild> ..\Bilder\Bühnenbilder\2010.jpg </Bühnenbild>
+    <Titelbild> ../Bilder/Titelbilder/2010.jpg </Titelbild>
+    <Informationstext> Der 55. Eurovision Song Contest fand am 25., 27. und 29. Mai 2010 in der Telenor Arena im Ballungsraum von Oslo, 
+        Norwegen statt. Das Land war damit zum dritten Mal Veranstaltungsort, nachdem der norwegische Beitrag Fairytale 
+        von Alexander Rybak im Vorjahr den 54. Eurovision Song Contest in Moskau gewonnen hatte. 39 Länder nahmen teil.
+        Alle drei Sendungen wurden von Erik Solbakken, Haddy N’jie und Nadia Hasnaoui moderiert. Der deutsche Beitrag Satellite, 
+        ein Lied der US-amerikanischen Songwriterin Julie Frost und des dänischen Komponisten John Gordon, wurde von der Sängerin 
+        Lena Meyer-Landrut vorgetragen und errang den Sieg beim Wettbewerb.
+        Die Veranstaltung stand unter dem Motto „Share the Moment“. Vor den Auftritten der Künstler wurden kurze Videoclips gezeigt, 
+        die im jeweiligen Teilnehmerland entstanden waren. Im Finale wurden zusätzlich am Anfang der Sendung und nach jedem Lied Bilder 
+        aus Wohnzimmern des jeweiligen Landes eingeblendet. Zwischen der Präsentation der Lieder und der Bekanntgabe der Ergebnisse wurden 
+        Bilder vom sogenannten Eurovision Flash Mob Dance aus verschiedenen europäischen Städten gezeigt. 
+    </Informationstext>
+    
+    <Teilnehmer> 
+        <Land> Albanien </Land>
+        <Vertreter Geschlecht ="Weiblich"> Juliana Pasha </Vertreter>
+        <Song Sprache ="en"> It's All About You </Song>
+        <grobePlatzierung>Finale</grobePlatzierung>
+        <genauePlatzierung> 16 </genauePlatzierung>
+    </Teilnehmer>
+    
+    
+    <Teilnehmer> 
+        <Land> Armenien </Land> 
+        <Vertreter Geschlecht ="Weiblich"> Eva Rivas </Vertreter>
+        <Song Sprache ="en"> Apricot Stone </Song>
+        <grobePlatzierung>Finale</grobePlatzierung>
+        <genauePlatzierung> 07 </genauePlatzierung> 
+    </Teilnehmer>
+    
+    <Teilnehmer> 
+        <Land> Aserbaidschan </Land>
+        <Vertreter Geschlecht ="Weiblich"> Safura </Vertreter>
+        <Song Sprache ="en"> Drip Drop </Song>
+        <grobePlatzierung>Finale</grobePlatzierung>
+        <genauePlatzierung> 05 </genauePlatzierung>
+    </Teilnehmer>
+    
+    <Teilnehmer> 
+        <Land> Belgien </Land>
+        <Vertreter Geschlecht ="Männlich"> Tom Dice </Vertreter>
+        <Song Sprache ="en"> Me And My Guitar </Song>
+        <grobePlatzierung>Finale</grobePlatzierung>
+        <genauePlatzierung> 06 </genauePlatzierung>
+    </Teilnehmer>
+    
+    <Teilnehmer> 
+        <Land> Bosnien-Herzegowina </Land>
+        <Vertreter Geschlecht ="Männlich"> 	Vukasin Brajic </Vertreter>
+        <Song Sprache ="en"> Lightning And Thunder </Song>
+        <grobePlatzierung>Finale</grobePlatzierung>
+        <genauePlatzierung> 17 </genauePlatzierung>
+    </Teilnehmer>
+    
+    <Teilnehmer> 
+        <Land> Bulgarien </Land>
+        <Vertreter Geschlecht ="Weiblich"> Miro </Vertreter>
+        <Song Sprache ="bg"> Angel si ti </Song>
+        <grobePlatzierung>Halbfinale</grobePlatzierung>
+        <genauePlatzierung> 15 </genauePlatzierung>
+    </Teilnehmer>
+    
+    <Teilnehmer> 
+        <Land> Dänemark </Land>
+        <Vertreter Geschlecht ="Gemischt"> 	Chanée/N’Evergreen </Vertreter>
+        <Song Sprache ="en"> In a Moment like This </Song>
+        <grobePlatzierung>Finale</grobePlatzierung>
+        <genauePlatzierung> 04 </genauePlatzierung>
+    </Teilnehmer>
+    
+    <Teilnehmer> 
+        <Land> Deutschland </Land>
+        <Vertreter Geschlecht ="Weiblich"> Lena </Vertreter>
+        <Song Sprache ="en"> Satellite </Song>
+        <grobePlatzierung>Finale</grobePlatzierung>
+        <genauePlatzierung> 01 </genauePlatzierung>
+    </Teilnehmer>
+    
+    <Teilnehmer> 
+        <Land> Estland </Land>
+        <Vertreter Geschlecht ="Männlich"> Malcolm Lincoln/Manpower </Vertreter>
+        <Song Sprache ="en"> Siren </Song>
+        <grobePlatzierung>Halbfinale</grobePlatzierung>
+        <genauePlatzierung> 14 </genauePlatzierung>
+    </Teilnehmer>
+    
+    <Teilnehmer> 
+        <Land> Finnland </Land>
+        <Vertreter Geschlecht ="Weiblich"> Kuunkuiskaajat </Vertreter>
+        <Song Sprache ="fin"> Työlki ellää </Song>
+        <grobePlatzierung>Halbfinale</grobePlatzierung>
+        <genauePlatzierung> 11 </genauePlatzierung>
+    </Teilnehmer>
+    
+    <Teilnehmer> 
+        <Land> Frankreich </Land>
+        <Vertreter Geschlecht ="Männlich"> Jessy Matador </Vertreter>
+        <Song Sprache ="fr"> Allez olla olé </Song>
+        <grobePlatzierung>Finale</grobePlatzierung>
+        <genauePlatzierung> 12 </genauePlatzierung>
+    </Teilnehmer>
+    
+    <Teilnehmer> 
+        <Land> Georgien </Land>
+        <Vertreter Geschlecht ="Weiblich"> Sofia Nizharadze </Vertreter>
+        <Song Sprache ="en"> Shine </Song>
+        <grobePlatzierung>Finale</grobePlatzierung>
+        <genauePlatzierung> 09 </genauePlatzierung>
+    </Teilnehmer>
+    
+    <Teilnehmer> 
+        <Land> Griechenland </Land>
+        <Vertreter Geschlecht ="Männlich"> Giorgos Alkeos/Friends </Vertreter>
+        <Song Sprache ="gr"> OPA! </Song>
+        <grobePlatzierung>Finale</grobePlatzierung>
+        <genauePlatzierung> 08 </genauePlatzierung>
+    </Teilnehmer>
+    
+    <Teilnehmer> 
+        <Land> Großbritannien </Land>
+        <Vertreter Geschlecht ="Männlich"> Josh </Vertreter>
+        <Song Sprache ="en"> That Sounds Good to Me </Song>
+        <grobePlatzierung>Finale</grobePlatzierung>
+        <genauePlatzierung> 25 </genauePlatzierung>
+    </Teilnehmer>
+    
+    <Teilnehmer> 
+        <Land> Irland </Land>
+        <Vertreter Geschlecht ="Weiblich"> Niamh Kavanagh </Vertreter>
+        <Song Sprache ="en"> It’s for You </Song>
+        <grobePlatzierung>Finale</grobePlatzierung>
+        <genauePlatzierung> 23 </genauePlatzierung>
+    </Teilnehmer>
+    
+    <Teilnehmer> 
+        <Land> Island </Land>
+        <Vertreter Geschlecht ="Weiblich"> Hera Björk </Vertreter>
+        <Song Sprache ="en"> Je ne sais quoi </Song>
+        <grobePlatzierung>Finale</grobePlatzierung>
+        <genauePlatzierung> 19 </genauePlatzierung>
+    </Teilnehmer>
+    
+    <Teilnehmer> 
+        <Land> Israel </Land>
+        <Vertreter Geschlecht ="Männlich"> Harel Skaat </Vertreter>
+        <Song Sprache ="heb"> Milim </Song>
+        <grobePlatzierung>Finale</grobePlatzierung>
+        <genauePlatzierung> 14 </genauePlatzierung>
+    </Teilnehmer>
+    
+    <Teilnehmer> 
+        <Land> Kroatien </Land>
+        <Vertreter Geschlecht ="Weiblich"> Feminnem </Vertreter>
+        <Song Sprache ="kr"> Lako je sve </Song>
+        <grobePlatzierung>Halbfinale</grobePlatzierung>
+        <genauePlatzierung> 13 </genauePlatzierung>
+    </Teilnehmer>
+    
+    <Teilnehmer> 
+        <Land> Lettland </Land>
+        <Vertreter Geschlecht ="Weiblich"> Aisha </Vertreter>
+        <Song Sprache ="en"> What For? </Song>
+        <grobePlatzierung>Halbfinale</grobePlatzierung>
+        <genauePlatzierung> 17 </genauePlatzierung>
+    </Teilnehmer>
+    
+    <Teilnehmer> 
+        <Land> Litauen </Land>
+        <Vertreter Geschlecht ="Männlich"> InCulto </Vertreter>
+        <Song Sprache ="en"> East European Funk </Song>
+        <grobePlatzierung>Halbfinale</grobePlatzierung>
+        <genauePlatzierung> 12 </genauePlatzierung>
+    </Teilnehmer>
+    
+    <Teilnehmer> 
+        <Land> Malta </Land>
+        <Vertreter Geschlecht ="Weiblich"> Thea Garrett </Vertreter>
+        <Song Sprache ="en"> My Dream </Song>
+        <grobePlatzierung>Halbfinale</grobePlatzierung>
+        <genauePlatzierung> 12 </genauePlatzierung>
+    </Teilnehmer>
+    
+    <Teilnehmer> 
+        <Land> Mazedonien </Land>
+        <Vertreter Geschlecht ="Weiblich"> Gjoko Taneski </Vertreter>
+        <Song Sprache ="maz"> Jas ja imam silata </Song>
+        <grobePlatzierung>Halbfinale</grobePlatzierung>
+        <genauePlatzierung> 15 </genauePlatzierung>
+    </Teilnehmer>
+    
+    <Teilnehmer> 
+        <Land> Moldau </Land>
+        <Vertreter Geschlecht ="Gemischt"> SunStroke Project/Olia Tira </Vertreter>
+        <Song Sprache ="en"> Run Away </Song>
+        <grobePlatzierung>Finale</grobePlatzierung>
+        <genauePlatzierung> 22 </genauePlatzierung>
+    </Teilnehmer>
+    
+    <Teilnehmer> 
+        <Land> Niederlande </Land>
+        <Vertreter Geschlecht ="Weiblich"> Sieneke </Vertreter>
+        <Song Sprache ="nl"> Ik ben verliefd </Song>
+        <grobePlatzierung>Halbfinale</grobePlatzierung>
+        <genauePlatzierung> 14 </genauePlatzierung>
+    </Teilnehmer>
+    
+    <Teilnehmer> 
+        <Land> Norwegen </Land>
+        <Vertreter Geschlecht ="Männlich"> My Heart Is Yours </Vertreter>
+        <Song Sprache ="en"> Didrik Solli-Tangen </Song>
+        <grobePlatzierung>Finale</grobePlatzierung>
+        <genauePlatzierung> 20 </genauePlatzierung>
+    </Teilnehmer>
+    
+    <Teilnehmer> 
+        <Land> Polen </Land>
+        <Vertreter Geschlecht ="Männlich"> Marcin Mrozinski </Vertreter>
+        <Song Sprache ="pol"> Legenda </Song>
+        <grobePlatzierung>Halbfinale</grobePlatzierung>
+        <genauePlatzierung> 13 </genauePlatzierung>
+    </Teilnehmer>
+    
+    <Teilnehmer> 
+        <Land> Portugal </Land>
+        <Vertreter Geschlecht ="Weiblich"> Filipa Azevedo </Vertreter>
+        <Song Sprache ="pt"> Ha dias assim </Song>
+        <grobePlatzierung>Finale</grobePlatzierung>
+        <genauePlatzierung> 18 </genauePlatzierung>
+    </Teilnehmer>
+    
+    <Teilnehmer> 
+        <Land> Rumänien </Land>
+        <Vertreter Geschlecht ="Weiblich"> Paula Seling/Ovi </Vertreter>
+        <Song Sprache ="en"> Playing with Fire </Song>
+        <grobePlatzierung>Finale</grobePlatzierung>
+        <genauePlatzierung> 03 </genauePlatzierung>
+    </Teilnehmer>
+    
+    <Teilnehmer> 
+        <Land> Russland </Land>
+        <Vertreter Geschlecht ="Gemischt"> MKPN </Vertreter>
+        <Song Sprache ="en"> Lost and Forgotten </Song>
+        <grobePlatzierung>Finale</grobePlatzierung>
+        <genauePlatzierung> 11 </genauePlatzierung>
+    </Teilnehmer>
+    
+    <Teilnehmer> 
+        <Land> Schweden </Land>
+        <Vertreter Geschlecht ="Weiblich"> Anna Bergendahl </Vertreter>
+        <Song Sprache ="en"> This Is My Life </Song>
+        <grobePlatzierung>Halbfinale</grobePlatzierung>
+        <genauePlatzierung> 11 </genauePlatzierung>
+    </Teilnehmer>
+    
+    <Teilnehmer> 
+        <Land> Schweiz </Land>
+        <Vertreter Geschlecht ="Weiblich"> Michael von der Heide </Vertreter>
+        <Song Sprache ="fr"> Il pleut de l’or </Song>
+        <grobePlatzierung>Halbfinale</grobePlatzierung>
+        <genauePlatzierung> 17 </genauePlatzierung>
+    </Teilnehmer>
+    
+    <Teilnehmer> 
+        <Land> Serbien </Land>
+        <Vertreter Geschlecht ="Männlich"> Milan Stanković </Vertreter>
+        <Song Sprache ="srb"> Ovo je Balkan </Song>
+        <grobePlatzierung>Finale</grobePlatzierung>
+        <genauePlatzierung> 13 </genauePlatzierung>
+    </Teilnehmer>
+    
+    <Teilnehmer> 
+        <Land> Slowakei </Land>
+        <Vertreter Geschlecht ="Weiblich"> Kristina Peláková </Vertreter>
+        <Song Sprache ="slowk"> Horehronie </Song>
+        <grobePlatzierung>Halbfinale</grobePlatzierung>
+        <genauePlatzierung> 16 </genauePlatzierung>
+    </Teilnehmer>
+    
+    <Teilnehmer> 
+        <Land> Slowenien </Land>
+        <Vertreter Geschlecht ="Gemischt"> Roka Žlindre/Kalamari </Vertreter>
+        <Song Sprache ="slowe"> Narodnozabavnirock </Song>
+        <grobePlatzierung>Halbfinale</grobePlatzierung>
+        <genauePlatzierung> 16 </genauePlatzierung>
+    </Teilnehmer>
+    
+    <Teilnehmer> 
+        <Land> Spanien </Land>
+        <Vertreter Geschlecht ="Männlich"> Daniel Diges </Vertreter>
+        <Song Sprache ="sp"> Algo pequenito </Song>
+        <grobePlatzierung>Finale</grobePlatzierung>
+        <genauePlatzierung> 15 </genauePlatzierung>
+    </Teilnehmer>
+    
+    <Teilnehmer> 
+        <Land> Türkei </Land>
+        <Vertreter Geschlecht ="Weiblich"> maNga </Vertreter>
+        <Song Sprache ="en"> We Could Be the Same </Song>
+        <grobePlatzierung>Finale</grobePlatzierung>
+        <genauePlatzierung> 02 </genauePlatzierung>
+    </Teilnehmer>
+    
+    <Teilnehmer> 
+        <Land> Ukraine </Land>
+        <Vertreter Geschlecht ="Weiblich"> Alyosha </Vertreter>
+        <Song Sprache ="en"> Sweet People </Song>
+        <grobePlatzierung>Finale</grobePlatzierung>
+        <genauePlatzierung> 10 </genauePlatzierung>
+    </Teilnehmer>
+    
+    <Teilnehmer> 
+        <Land> Weißrussland </Land>
+        <Vertreter Geschlecht ="Weiblich"> 3+2 feat. Robert Wells </Vertreter>
+        <Song Sprache ="en"> Butterflies </Song>
+        <grobePlatzierung>Finale</grobePlatzierung>
+        <genauePlatzierung> 24 </genauePlatzierung>
+    </Teilnehmer>
+    
+    <Teilnehmer> 
+        <Land> Zypern </Land> 
+        <Vertreter Geschlecht ="Weiblich"> Jon Lilygreen/The Islands </Vertreter>
+        <Song Sprache ="en"> Life Looks Better in Spring </Song>
+        <grobePlatzierung>Finale</grobePlatzierung>
+        <genauePlatzierung> 21 </genauePlatzierung>
+    </Teilnehmer>
+    
+</Contest>
+
+<Contest Jahr ="2011">
+        
+    <Logo> ..\Bilder\Logos\2011.jpg </Logo>
+    <Bühnenbild> ..\Bilder\Bühnenbilder\2011.jpg </Bühnenbild>
+    <Titelbild> ../Bilder/Titelbilder/2011.jpg </Titelbild>
+    <Informationstext>
+        Der 56. Eurovision Song Contest fand vom 10. bis 14. Mai 2011 in der ESPRIT arena 
+        (für den Zeitraum der Veranstaltung: Düsseldorf Arena) in Düsseldorf statt. Nachdem der deutsche Beitrag 
+        Satellite der Interpretin Lena Meyer-Landrut im Jahr zuvor den 55. Eurovision Song Contest in Oslo gewonnen 
+        hatte, war Deutschland zum dritten Mal nach 1957 und 1983 Austragungsland des Musikwettbewerbs. Das offizielle 
+        Motto der Veranstaltung 2011 lautete Feel Your Heart Beat! (deutsch: „Fühl' dein Herz schlagen!“). Der von Ell &amp; Nikki 
+        vorgetragene aserbaidschanische Beitrag Running Scared, ein Lied der schwedischen Songwriter und Komponisten Stefan Örn 
+        und Sandra Bjurman sowie des Briten Iain Farquharson, belegte den ersten Platz.
+    </Informationstext>
+    
+    <Teilnehmer> 
+        <Land> Albanien </Land>
+        <Vertreter Geschlecht ="Weiblich"> Aurela Gaçe </Vertreter>
+        <Song Sprache ="en"> Feel the Passion </Song>
+        <grobePlatzierung>Halbfinale</grobePlatzierung>
+        <genauePlatzierung> 14 </genauePlatzierung>
+    </Teilnehmer>
+    
+    <Teilnehmer> 
+        <Land> Armenien </Land>
+        <Vertreter Geschlecht ="Weiblich"> 	Emmy </Vertreter>
+        <Song Sprache ="en"> Boom Boom </Song>
+        <grobePlatzierung>Halbfinale</grobePlatzierung>
+        <genauePlatzierung> 12 </genauePlatzierung>
+    </Teilnehmer>
+    
+    <Teilnehmer> 
+        <Land> Aserbaidschan </Land>
+        <Vertreter Geschlecht ="Gemischt"> Ell/Nikki </Vertreter>
+        <Song Sprache ="en"> Running Scared </Song>
+        <grobePlatzierung>Finale</grobePlatzierung>
+        <genauePlatzierung> 01 </genauePlatzierung>
+    </Teilnehmer>
+    
+    <Teilnehmer> 
+        <Land> Finnland </Land>
+        <Vertreter Geschlecht ="Männlich"> Paradise Oskar </Vertreter>
+        <Song Sprache ="en"> Da Da Dam </Song>
+        <grobePlatzierung>Finale</grobePlatzierung>
+        <genauePlatzierung> 21 </genauePlatzierung>
+    </Teilnehmer>
+    
+    <Teilnehmer> 
+        <Land> Georgien </Land>
+        <Vertreter Geschlecht ="Weiblich"> Eldrine </Vertreter>
+        <Song Sprache ="en"> One More Day </Song>
+        <grobePlatzierung>Finale</grobePlatzierung>
+        <genauePlatzierung> 09 </genauePlatzierung>
+    </Teilnehmer>
+    
+    <Teilnehmer> 
+        <Land> Griechenland </Land>
+        <Vertreter Geschlecht ="Männlich"> Lukas Giorkas/Stereo Mike </Vertreter>
+        <Song Sprache ="en"> Watch My Dance </Song>
+        <grobePlatzierung>Finale</grobePlatzierung>
+        <genauePlatzierung> 07 </genauePlatzierung>
+    </Teilnehmer>
+    
+    <Teilnehmer> 
+        <Land> Island </Land>
+        <Vertreter Geschlecht ="Gemischt"> 	Sjonni’s Friends </Vertreter>
+        <Song Sprache ="en"> Coming Home </Song>
+        <grobePlatzierung>Finale</grobePlatzierung>
+        <genauePlatzierung> 20 </genauePlatzierung>
+    </Teilnehmer>
+    
+    <Teilnehmer> 
+        <Land> Kroatien </Land>
+        <Vertreter Geschlecht ="Weiblich"> Daria Kinzer </Vertreter>
+        <Song Sprache ="en"> Celebrate </Song>
+        <grobePlatzierung>Halbfinale</grobePlatzierung>
+        <genauePlatzierung> 15 </genauePlatzierung>
+    </Teilnehmer>
+    
+    <Teilnehmer> 
+        <Land> Litauen </Land>
+        <Vertreter Geschlecht ="Weiblich"> Evelina Sašenko </Vertreter>
+        <Song Sprache ="fr"> C’est ma vie </Song>
+        <grobePlatzierung>Finale</grobePlatzierung>
+        <genauePlatzierung> 19 </genauePlatzierung>
+    </Teilnehmer>
+    
+    <Teilnehmer> 
+        <Land> Malta </Land>
+        <Vertreter Geschlecht ="Männlich"> Glen Vella </Vertreter>
+        <Song Sprache ="en"> One Life </Song>
+        <grobePlatzierung>Halbfinale</grobePlatzierung>
+        <genauePlatzierung> 11 </genauePlatzierung>
+    </Teilnehmer>
+    
+    <Teilnehmer> 
+        <Land> Norwegen </Land>
+        <Vertreter Geschlecht ="Weiblich"> Stella Mwangi </Vertreter>
+        <Song Sprache ="en"> Haba haba </Song>
+        <grobePlatzierung>Halbfinale</grobePlatzierung>
+        <genauePlatzierung> 17 </genauePlatzierung>
+    </Teilnehmer>
+    
+    <Teilnehmer> 
+        <Land> Polen </Land>
+        <Vertreter Geschlecht ="Weiblich"> Magdalena Tul </Vertreter>
+        <Song Sprache ="pol"> Jestem </Song>
+        <grobePlatzierung>Halbfinale</grobePlatzierung>
+        <genauePlatzierung> 19 </genauePlatzierung>
+    </Teilnehmer>
+    
+    <Teilnehmer> 
+        <Land> Portugal </Land>
+        <Vertreter Geschlecht ="Weiblich"> Homens da Luta </Vertreter>
+        <Song Sprache ="pt"> Luta é alegria </Song>
+        <grobePlatzierung>Halbfinale</grobePlatzierung>
+        <genauePlatzierung> 18 </genauePlatzierung>
+    </Teilnehmer>
+    
+    <Teilnehmer> 
+        <Land> Russland </Land>
+        <Vertreter Geschlecht ="Männlich"> Alexei Worobjow </Vertreter>
+        <Song Sprache ="en"> Get You </Song>
+        <grobePlatzierung>Finale</grobePlatzierung>
+        <genauePlatzierung> 16 </genauePlatzierung>
+    </Teilnehmer>
+    
+    <Teilnehmer> 
+        <Land> San Marino </Land>
+        <Vertreter Geschlecht ="Männlich"> Senit </Vertreter>
+        <Song Sprache ="en"> Stand By </Song>
+        <grobePlatzierung>Halbfinale</grobePlatzierung>
+        <genauePlatzierung> 16 </genauePlatzierung>
+    </Teilnehmer>
+    
+    <Teilnehmer> 
+        <Land> Schweiz </Land>
+        <Vertreter Geschlecht ="Weiblich"> Anna Rossinelli </Vertreter>
+        <Song Sprache ="en"> In Love for a While </Song>
+        <grobePlatzierung>Finale</grobePlatzierung>
+        <genauePlatzierung> 25 </genauePlatzierung>
+    </Teilnehmer>
+    
+    <Teilnehmer> 
+        <Land> Serbien </Land>
+        <Vertreter Geschlecht ="Weiblich"> Nina </Vertreter>
+        <Song Sprache ="srb"> Čaroban </Song>
+        <grobePlatzierung>Finale</grobePlatzierung>
+        <genauePlatzierung> 14 </genauePlatzierung>
+    </Teilnehmer>
+    
+    <Teilnehmer> 
+        <Land> Türkei </Land>
+        <Vertreter Geschlecht ="Männlich"> Yüksek Sadakat </Vertreter>
+        <Song Sprache ="en"> Live It Up </Song>
+        <grobePlatzierung>Halbfinale</grobePlatzierung>
+        <genauePlatzierung> 13 </genauePlatzierung>
+    </Teilnehmer>
+    
+    <Teilnehmer> 
+        <Land> Ungarn </Land>
+        <Vertreter Geschlecht ="Weiblich"> Kati Wolf </Vertreter>
+        <Song Sprache ="en"> What About My Dreams </Song>
+        <grobePlatzierung>Finale</grobePlatzierung>
+        <genauePlatzierung> 22 </genauePlatzierung>
+    </Teilnehmer>
+    
+    <Teilnehmer> 
+        <Land> Belgien </Land>
+        <Vertreter Geschlecht ="Männlich"> 	Witloof Bay </Vertreter>
+        <Song Sprache ="en"> 	With Love Baby </Song>
+        <grobePlatzierung>Halbfinale</grobePlatzierung>
+        <genauePlatzierung> 11 </genauePlatzierung>
+    </Teilnehmer>
+    
+    <Teilnehmer> 
+        <Land> Bosnien-Herzegowina </Land>
+        <Vertreter Geschlecht ="Männlich"> Dino Merlin </Vertreter>
+        <Song Sprache ="en"> Love in Rewind </Song>
+        <grobePlatzierung>Finale</grobePlatzierung>
+        <genauePlatzierung> 06 </genauePlatzierung>
+    </Teilnehmer>
+    
+    <Teilnehmer> 
+        <Land> Bulgarien </Land>
+        <Vertreter Geschlecht ="Weiblich"> Poli Genowa </Vertreter>
+        <Song Sprache ="bg"> Na inat </Song>
+        <grobePlatzierung>Halbfinale</grobePlatzierung>
+        <genauePlatzierung> 12 </genauePlatzierung>
+    </Teilnehmer>
+    
+    <Teilnehmer> 
+        <Land> Dänemark </Land>
+        <Vertreter Geschlecht ="Gemischt"> A Friend in London </Vertreter>
+        <Song Sprache ="en"> New Tomorrow </Song>
+        <grobePlatzierung>Finale</grobePlatzierung>
+        <genauePlatzierung> 05 </genauePlatzierung>
+    </Teilnehmer>
+    
+    <Teilnehmer> 
+        <Land> Estland </Land>
+        <Vertreter Geschlecht ="Weiblich"> Getter Jaani </Vertreter>
+        <Song Sprache ="en"> Rockefeller Street </Song>
+        <grobePlatzierung>Finale</grobePlatzierung>
+        <genauePlatzierung> 24 </genauePlatzierung>
+    </Teilnehmer>
+    
+    <Teilnehmer> 
+        <Land> Irland </Land>
+        <Vertreter Geschlecht ="Männlich"> 	Jedward </Vertreter>
+        <Song Sprache ="en"> Lipstick </Song>
+        <grobePlatzierung>Finale</grobePlatzierung>
+        <genauePlatzierung> 08 </genauePlatzierung>
+    </Teilnehmer>
+    
+    <Teilnehmer> 
+        <Land> Israel </Land>
+        <Vertreter Geschlecht ="Weiblich"> Dana International </Vertreter>
+        <Song Sprache ="en"> Ding Dong </Song>
+        <grobePlatzierung>Halbfinale</grobePlatzierung>
+        <genauePlatzierung> 15 </genauePlatzierung>
+    </Teilnehmer>
+    
+    <Teilnehmer> 
+        <Land> Lettland </Land>
+        <Vertreter Geschlecht ="Männlich"> Musiqq </Vertreter>
+        <Song Sprache ="en"> Angel in Disguise </Song>
+        <grobePlatzierung>Halbfinale</grobePlatzierung>
+        <genauePlatzierung> 17 </genauePlatzierung>
+    </Teilnehmer>
+    
+    <Teilnehmer> 
+        <Land> Mazedonien </Land>
+        <Vertreter Geschlecht ="Männlich"> Vlatko Ilievski </Vertreter>
+        <Song Sprache ="maz"> Rusinka </Song>
+        <grobePlatzierung>Halbfinale</grobePlatzierung>
+        <genauePlatzierung> 16 </genauePlatzierung>
+    </Teilnehmer>
+    
+    <Teilnehmer> 
+        <Land> Moldau </Land>
+        <Vertreter Geschlecht ="Gemischt"> Zdob și Zdub </Vertreter>
+        <Song Sprache ="en"> So Lucky </Song>
+        <grobePlatzierung>Finale</grobePlatzierung>
+        <genauePlatzierung> 12 </genauePlatzierung>
+    </Teilnehmer>
+    
+    <Teilnehmer> 
+        <Land> Niederlande </Land>
+        <Vertreter Geschlecht ="Gemischt"> 	3JS </Vertreter>
+        <Song Sprache ="en"> Never Alone </Song>
+        <grobePlatzierung>Halbfinale</grobePlatzierung>
+        <genauePlatzierung> 19 </genauePlatzierung>
+    </Teilnehmer>
+    
+    <Teilnehmer> 
+        <Land> Österreich </Land>
+        <Vertreter Geschlecht ="Weiblich"> Nadine Beiler </Vertreter>
+        <Song Sprache ="en"> The Secret Is Love </Song>
+        <grobePlatzierung>Finale</grobePlatzierung>
+        <genauePlatzierung> 18 </genauePlatzierung>
+    </Teilnehmer>
+    
+    <Teilnehmer> 
+        <Land> Rumänien </Land>
+        <Vertreter Geschlecht ="Gemischt"> Hotel FM </Vertreter>
+        <Song Sprache ="en"> Change </Song>
+        <grobePlatzierung>Finale</grobePlatzierung>
+        <genauePlatzierung> 17 </genauePlatzierung>
+    </Teilnehmer>
+    
+    <Teilnehmer> 
+        <Land> Schweden </Land>
+        <Vertreter Geschlecht ="Männlich"> Eric Saade </Vertreter>
+        <Song Sprache ="en"> Popular </Song>
+        <grobePlatzierung>Finale</grobePlatzierung>
+        <genauePlatzierung> 03 </genauePlatzierung>
+    </Teilnehmer>
+    
+    <Teilnehmer> 
+        <Land> Slowakei </Land>
+        <Vertreter Geschlecht ="Weiblich"> Twiins </Vertreter>
+        <Song Sprache ="en"> I’m Still Alive </Song>
+        <grobePlatzierung>Halbfinale</grobePlatzierung>
+        <genauePlatzierung> 13 </genauePlatzierung>
+    </Teilnehmer>
+    
+    <Teilnehmer> 
+        <Land> Slowenien </Land>
+        <Vertreter Geschlecht ="Weiblich"> Maja Keuc </Vertreter>
+        <Song Sprache ="en"> No One </Song>
+        <grobePlatzierung>Finale</grobePlatzierung>
+        <genauePlatzierung> 13 </genauePlatzierung>
+    </Teilnehmer>
+    
+    <Teilnehmer> 
+        <Land> Ukraine </Land>
+        <Vertreter Geschlecht ="Weiblich"> Mika Newton </Vertreter>
+        <Song Sprache ="en"> Angel </Song>
+        <grobePlatzierung>Finale</grobePlatzierung>
+        <genauePlatzierung> 04 </genauePlatzierung>
+    </Teilnehmer>
+    
+    <Teilnehmer> 
+        <Land>  Weißrussland </Land>
+        <Vertreter Geschlecht ="Weiblich"> Anastassija Winnikawa </Vertreter>
+        <Song Sprache ="en"> I Love Belarus </Song>
+        <grobePlatzierung>Halbfinale</grobePlatzierung>
+        <genauePlatzierung> 14 </genauePlatzierung>
+    </Teilnehmer>
+    
+    <Teilnehmer> 
+        <Land> Zypern </Land>
+        <Vertreter Geschlecht ="Männlich"> Christos Mylordos </Vertreter>
+        <Song Sprache ="gr"> San Angelos S’Agapisa </Song>
+        <grobePlatzierung>Halbfinale</grobePlatzierung>
+        <genauePlatzierung> 18 </genauePlatzierung>
+    </Teilnehmer>
+    
+    <Teilnehmer> 
+        <Land> Deutschland </Land>
+        <Vertreter Geschlecht ="Weiblich"> Lena </Vertreter>
+        <Song Sprache ="en"> Taken by a Stranger </Song>
+        <grobePlatzierung>Finale</grobePlatzierung>
+        <genauePlatzierung> 10 </genauePlatzierung>
+    </Teilnehmer>
+    
+    <Teilnehmer> 
+        <Land> Großbritannien </Land>
+        <Vertreter Geschlecht ="Männlich"> Blue </Vertreter>
+        <Song Sprache ="en"> I Can </Song>
+        <grobePlatzierung>Finale</grobePlatzierung>
+        <genauePlatzierung> 11 </genauePlatzierung>
+    </Teilnehmer>
+    
+    <Teilnehmer> 
+        <Land> Frankreich </Land>
+        <Vertreter Geschlecht ="Weiblich"> Amaury Vassili </Vertreter>
+        <Song Sprache ="fr"> Sognu </Song>
+        <grobePlatzierung>Finale</grobePlatzierung>
+        <genauePlatzierung> 15 </genauePlatzierung>
+    </Teilnehmer>
+    
+    <Teilnehmer> 
+        <Land> Spanien </Land>
+        <Vertreter Geschlecht ="Weiblich"> Lucía Pérez </Vertreter>
+        <Song Sprache ="en"> Que me quiten lo bailao </Song>
+        <grobePlatzierung>Finale</grobePlatzierung>
+        <genauePlatzierung> 23 </genauePlatzierung>
+    </Teilnehmer>
+    
+    <Teilnehmer> 
+        <Land> Italien </Land>
+        <Vertreter Geschlecht ="Weiblich"> Raphael Gualazzi </Vertreter>
+        <Song Sprache ="en"> Madness of Love </Song>
+        <grobePlatzierung>Finale</grobePlatzierung>
+        <genauePlatzierung> 02 </genauePlatzierung>
+    </Teilnehmer>
+    
+</Contest>
+
+<Contest Jahr ="2012">
+        
+    <Logo> ..\Bilder\Logos\2012.jpg </Logo>
+    <Bühnenbild> ..\Bilder\Bühnenbilder\2012.jpg </Bühnenbild>
+    <Titelbild> ../Bilder/Titelbilder/2012.jpg </Titelbild>
+    <Informationstext>
+        Der 57. Eurovision Song Contest fand am 22., 24. und 26. Mai 2012 in Aserbaidschans Hauptstadt Baku statt. 
+        Das aserbaidschanische Gesangsduo Ell &amp; Nikki hatte den Wettbewerb im Vorjahr mit dem Beitrag Running Scared gewonnen.
+        Der schwedische Beitrag Euphoria, vorgetragen von der Sängerin Loreen, belegte den ersten Platz. Mit 372 Punkten erreichte sie die 
+        dritthöchste Punktzahl in der Geschichte des Eurovision Song Contests nach Jamala im Jahr 2016 und Alexander Rybak 2009.
+    </Informationstext>
+    
+    <Teilnehmer> 
+        <Land> Albanien </Land>
+        <Vertreter Geschlecht ="Weiblich"> Rona Nishliu </Vertreter>
+        <Song Sprache ="alb"> Suus </Song>
+        <grobePlatzierung>Finale</grobePlatzierung>
+        <genauePlatzierung> 05 </genauePlatzierung>
+    </Teilnehmer>
+    
+    <Teilnehmer> 
+        <Land> Belgien </Land>
+        <Vertreter Geschlecht ="Weiblich"> Iris </Vertreter>
+        <Song Sprache ="en"> Would You? </Song>
+        <grobePlatzierung>Halbfinale</grobePlatzierung>
+        <genauePlatzierung> 17 </genauePlatzierung>
+    </Teilnehmer>
+    
+    <Teilnehmer> 
+        <Land> Dänemark </Land>
+        <Vertreter Geschlecht ="Weiblich"> 	Soluna Samay </Vertreter>
+        <Song Sprache ="en"> Should’ve Known Better </Song>
+        <grobePlatzierung>Finale</grobePlatzierung>
+        <genauePlatzierung> 23 </genauePlatzierung>
+    </Teilnehmer>
+    
+    <Teilnehmer> 
+        <Land> Finnland </Land>
+        <Vertreter Geschlecht ="Weiblich"> Pernilla Karlsson </Vertreter>
+        <Song Sprache ="swd"> När jag blundar </Song>
+        <grobePlatzierung>Halbfinale</grobePlatzierung>
+        <genauePlatzierung> 12 </genauePlatzierung>
+    </Teilnehmer>
+    
+    <Teilnehmer> 
+        <Land> Griechenland </Land>
+        <Vertreter Geschlecht ="Weiblich"> 	Eleftheria Eleftheriou </Vertreter>
+        <Song Sprache ="en"> Aphrodisiac </Song>
+        <grobePlatzierung>Finale</grobePlatzierung>
+        <genauePlatzierung> 17 </genauePlatzierung>
+    </Teilnehmer>
+    
+    <Teilnehmer> 
+        <Land> Irland </Land>
+        <Vertreter Geschlecht ="Männlich"> Jedward </Vertreter>
+        <Song Sprache ="en"> Waterline </Song>
+        <grobePlatzierung>Finale</grobePlatzierung>
+        <genauePlatzierung> 19 </genauePlatzierung>
+    </Teilnehmer>
+    
+    <Teilnehmer> 
+        <Land> Israel </Land>
+        <Vertreter Geschlecht ="Männlich"> Izabo </Vertreter>
+        <Song Sprache ="en"> Time </Song>
+        <grobePlatzierung>Halbfinale</grobePlatzierung>
+        <genauePlatzierung> 13 </genauePlatzierung>
+    </Teilnehmer>
+    
+    <Teilnehmer> 
+        <Land> Island </Land>
+        <Vertreter Geschlecht ="Gemischt"> Greta Salóme/Jónsi </Vertreter>
+        <Song Sprache ="en"> Never Forget </Song>
+        <grobePlatzierung>Finale</grobePlatzierung>
+        <genauePlatzierung> 20 </genauePlatzierung>
+    </Teilnehmer>
+    
+    <Teilnehmer> 
+        <Land> Lettland </Land>
+        <Vertreter Geschlecht ="Weiblich"> Anmary </Vertreter>
+        <Song Sprache ="en"> Beautiful Song </Song>
+        <grobePlatzierung>Halbfinale</grobePlatzierung>
+        <genauePlatzierung> 16 </genauePlatzierung>
+    </Teilnehmer>
+    
+    <Teilnehmer> 
+        <Land>  Moldau </Land>
+        <Vertreter Geschlecht ="Männlich"> Pasha Parfeny </Vertreter>
+        <Song Sprache ="en"> Lăutar </Song>
+        <grobePlatzierung>Finale</grobePlatzierung>
+        <genauePlatzierung> 11 </genauePlatzierung>
+    </Teilnehmer>
+    
+    <Teilnehmer> 
+        <Land> Montenegro </Land>
+        <Vertreter Geschlecht ="Männlich"> Rambo Amadeus </Vertreter>
+        <Song Sprache ="en"> Euro Neuro </Song>
+        <grobePlatzierung>Halbfinale</grobePlatzierung>
+        <genauePlatzierung> 15 </genauePlatzierung>
+    </Teilnehmer>
+    
+    <Teilnehmer> 
+        <Land> Österreich </Land>
+        <Vertreter Geschlecht ="Männlich"> 	Trackshittaz </Vertreter>
+        <Song Sprache ="de"> Woki mit deim Popo </Song>
+        <grobePlatzierung>Halbfinale</grobePlatzierung>
+        <genauePlatzierung> 18 </genauePlatzierung>
+    </Teilnehmer>
+    
+    <Teilnehmer> 
+        <Land> Rumänien </Land>
+        <Vertreter Geschlecht ="Weiblich"> Mandinga </Vertreter>
+        <Song Sprache ="en"> Zaleilah </Song>
+        <grobePlatzierung>Finale</grobePlatzierung>
+        <genauePlatzierung> 12 </genauePlatzierung>
+    </Teilnehmer>
+    
+    <Teilnehmer> 
+        <Land> Russland </Land>
+        <Vertreter Geschlecht ="Weiblich"> Buranowskije Babuschki </Vertreter>
+        <Song Sprache ="en"> Party for Everybody </Song>
+        <grobePlatzierung>Finale</grobePlatzierung>
+        <genauePlatzierung> 02 </genauePlatzierung>
+    </Teilnehmer>
+    
+    <Teilnehmer> 
+        <Land> San Marino </Land>
+        <Vertreter Geschlecht ="Weiblich"> Valentina Monetta </Vertreter>
+        <Song Sprache ="en"> The Social Network Song  </Song>
+        <grobePlatzierung>Halbfinale</grobePlatzierung>
+        <genauePlatzierung> 14 </genauePlatzierung>
+    </Teilnehmer>
+    
+    <Teilnehmer> 
+        <Land> Schweiz </Land>
+        <Vertreter Geschlecht ="Gemischt"> Sinplus </Vertreter>
+        <Song Sprache ="en"> Unbreakable </Song>
+        <grobePlatzierung>Halbfinale</grobePlatzierung>
+        <genauePlatzierung> 11 </genauePlatzierung>
+    </Teilnehmer>
+    
+    <Teilnehmer> 
+        <Land> Ungarn </Land>
+        <Vertreter Geschlecht ="Gemischt"> 	Compact Disco </Vertreter>
+        <Song Sprache ="en"> Sound of Our Hearts </Song>
+        <grobePlatzierung>Finale</grobePlatzierung>
+        <genauePlatzierung> 24 </genauePlatzierung>
+    </Teilnehmer>
+    
+    <Teilnehmer> 
+        <Land> Zypern </Land>
+        <Vertreter Geschlecht ="Weiblich"> Ivi Adamou </Vertreter>
+        <Song Sprache ="en"> La La Love </Song>
+        <grobePlatzierung>Finale</grobePlatzierung>
+        <genauePlatzierung> 16 </genauePlatzierung>
+    </Teilnehmer>
+    
+    <Teilnehmer> 
+        <Land> Bosnien-Herzegowina </Land>
+        <Vertreter Geschlecht ="Weiblich"> Maya Sar </Vertreter>
+        <Song Sprache ="bos"> Korake ti znam </Song>
+        <grobePlatzierung>Finale</grobePlatzierung>
+        <genauePlatzierung> 18 </genauePlatzierung>
+    </Teilnehmer>
+    
+    <Teilnehmer> 
+        <Land> Bulgarien </Land>
+        <Vertreter Geschlecht ="Weiblich"> Lena </Vertreter>
+        <Song Sprache ="bg"> Love Unlimited </Song>
+        <grobePlatzierung>Halbfinale</grobePlatzierung>
+        <genauePlatzierung> 11 </genauePlatzierung>
+    </Teilnehmer>
+    
+    <Teilnehmer> 
+        <Land> Estland </Land>
+        <Vertreter Geschlecht ="Männlich"> Ott Lepland </Vertreter>
+        <Song Sprache ="est"> 	Kuula </Song>
+        <grobePlatzierung>Finale</grobePlatzierung>
+        <genauePlatzierung> 06 </genauePlatzierung>
+    </Teilnehmer>
+    
+    <Teilnehmer> 
+        <Land> Georgien </Land>
+        <Vertreter Geschlecht ="Männlich"> Anri Dschochadse </Vertreter>
+        <Song Sprache ="en"> I’m a Joker </Song>
+        <grobePlatzierung>Halbfinale</grobePlatzierung>
+        <genauePlatzierung> 14 </genauePlatzierung>
+    </Teilnehmer>
+    
+    <Teilnehmer> 
+        <Land> Kroatien </Land>
+        <Vertreter Geschlecht ="Weiblich"> Nina Badrić </Vertreter>
+        <Song Sprache ="kr"> Nebo </Song>
+        <grobePlatzierung>Halbfinale</grobePlatzierung>
+        <genauePlatzierung> 12 </genauePlatzierung>
+    </Teilnehmer>
+    
+    <Teilnehmer> 
+        <Land> Litauen </Land>
+        <Vertreter Geschlecht ="Männlich"> Donny Montell </Vertreter>
+        <Song Sprache ="en"> Love Is Blind </Song>
+        <grobePlatzierung>Finale</grobePlatzierung>
+        <genauePlatzierung> 14 </genauePlatzierung>
+    </Teilnehmer>
+    
+    <Teilnehmer> 
+        <Land> Malta </Land>
+        <Vertreter Geschlecht ="Männlich"> Kurt Calleja </Vertreter>
+        <Song Sprache ="en"> This Is the Night </Song>
+        <grobePlatzierung>Finale</grobePlatzierung>
+        <genauePlatzierung> 21 </genauePlatzierung>
+    </Teilnehmer>
+    
+    <Teilnehmer> 
+        <Land> Mazedonien </Land>
+        <Vertreter Geschlecht ="Weiblich"> Kaliopi </Vertreter>
+        <Song Sprache ="maz"> Crno i belo </Song>
+        <grobePlatzierung>Finale</grobePlatzierung>
+        <genauePlatzierung> 13 </genauePlatzierung>
+    </Teilnehmer>
+    
+    <Teilnehmer> 
+        <Land> Niederlande </Land>
+        <Vertreter Geschlecht ="Weiblich"> Joan Franka </Vertreter>
+        <Song Sprache ="en"> You and Me </Song>
+        <grobePlatzierung>Halbfinale</grobePlatzierung>
+        <genauePlatzierung> 15 </genauePlatzierung>
+    </Teilnehmer>
+    
+    <Teilnehmer> 
+        <Land> Norwegen </Land>
+        <Vertreter Geschlecht ="Männlich"> Tooji </Vertreter>
+        <Song Sprache ="en"> Stay </Song>
+        <grobePlatzierung>Finale</grobePlatzierung>
+        <genauePlatzierung> 26 </genauePlatzierung>
+    </Teilnehmer>
+    
+    <Teilnehmer> 
+        <Land> Portugal </Land>
+        <Vertreter Geschlecht ="Weiblich"> Filipa Sousa </Vertreter>
+        <Song Sprache ="pt"> Vida minha </Song>
+        <grobePlatzierung>Halbfinale</grobePlatzierung>
+        <genauePlatzierung> 13 </genauePlatzierung>
+    </Teilnehmer>
+    
+    <Teilnehmer> 
+        <Land> Schweden </Land>
+        <Vertreter Geschlecht ="Weiblich"> Loreen </Vertreter>
+        <Song Sprache ="en"> Euphoria </Song>
+        <grobePlatzierung>Finale</grobePlatzierung>
+        <genauePlatzierung> 01 </genauePlatzierung>
+    </Teilnehmer>
+    
+    <Teilnehmer> 
+        <Land>  Serbien </Land>
+        <Vertreter Geschlecht ="Männlich"> Željko Joksimović </Vertreter>
+        <Song Sprache ="srb"> Nije ljubav stvar </Song>
+        <grobePlatzierung>Finale</grobePlatzierung>
+        <genauePlatzierung> 03 </genauePlatzierung>
+    </Teilnehmer>
+    
+    <Teilnehmer> 
+        <Land> Slowakei </Land>
+        <Vertreter Geschlecht ="Männlich"> Max Jason Mai </Vertreter>
+        <Song Sprache ="en"> Don’t Close Your Eyes </Song>
+        <grobePlatzierung>Halbfinale</grobePlatzierung>
+        <genauePlatzierung> 18 </genauePlatzierung>
+    </Teilnehmer>
+    
+    <Teilnehmer> 
+        <Land> Slowenien </Land>
+        <Vertreter Geschlecht ="Weiblich"> Eva Boto </Vertreter>
+        <Song Sprache ="slow"> Verjamem </Song>
+        <grobePlatzierung>Halbfinale</grobePlatzierung>
+        <genauePlatzierung> 17 </genauePlatzierung>
+    </Teilnehmer>
+    
+    <Teilnehmer> 
+        <Land> Türkei </Land>
+        <Vertreter Geschlecht ="Männlich"> Can Bonomo </Vertreter>
+        <Song Sprache ="en"> Love Me Back </Song>
+        <grobePlatzierung>Finale</grobePlatzierung>
+        <genauePlatzierung> 07 </genauePlatzierung>
+    </Teilnehmer>
+    
+    <Teilnehmer> 
+        <Land> Ukraine </Land>
+        <Vertreter Geschlecht ="Weiblich"> Gaitana </Vertreter>
+        <Song Sprache ="en"> Be My Guest </Song>
+        <grobePlatzierung>Finale</grobePlatzierung>
+        <genauePlatzierung> 15 </genauePlatzierung>
+    </Teilnehmer>
+    
+    <Teilnehmer> 
+        <Land> Weißrussland </Land>
+        <Vertreter Geschlecht ="Gemischt"> Litesound </Vertreter>
+        <Song Sprache ="en"> We Are the Heroes </Song>
+        <grobePlatzierung>Halbfinale</grobePlatzierung>
+        <genauePlatzierung> 16 </genauePlatzierung>
+    </Teilnehmer>
+    
+    <Teilnehmer> 
+        <Land> Großbritannien </Land>
+        <Vertreter Geschlecht ="Männlich"> Engelbert </Vertreter>
+        <Song Sprache ="en"> 	Love Will Set You Free </Song>
+        <grobePlatzierung>Finale</grobePlatzierung>
+        <genauePlatzierung> 25 </genauePlatzierung>
+    </Teilnehmer>
+    
+    <Teilnehmer> 
+        <Land> Frankreich </Land>
+        <Vertreter Geschlecht ="Weiblich"> Anggun </Vertreter>
+        <Song Sprache ="en"> Echo (You and I) </Song>
+        <grobePlatzierung>Finale</grobePlatzierung>
+        <genauePlatzierung> 22 </genauePlatzierung>
+    </Teilnehmer>
+    
+    <Teilnehmer> 
+        <Land> Spanien </Land>
+        <Vertreter Geschlecht ="Weiblich"> Pastora Soler </Vertreter>
+        <Song Sprache ="sp"> Quédate conmigo </Song>
+        <grobePlatzierung>Finale</grobePlatzierung>
+        <genauePlatzierung> 10 </genauePlatzierung>
+    </Teilnehmer>
+    
+    <Teilnehmer> 
+        <Land> Italien </Land>
+        <Vertreter Geschlecht ="Weiblich"> Nina Zilli </Vertreter>
+        <Song Sprache ="it"> L’amore è femmina </Song>
+        <grobePlatzierung>Finale</grobePlatzierung>
+        <genauePlatzierung> 09 </genauePlatzierung>
+    </Teilnehmer>
+    
+    <Teilnehmer> 
+        <Land> Deutschland </Land>
+        <Vertreter Geschlecht ="Männlich"> Roman Lob </Vertreter>
+        <Song Sprache ="en"> Standing Still </Song>
+        <grobePlatzierung>Finale</grobePlatzierung>
+        <genauePlatzierung> 08 </genauePlatzierung>
+    </Teilnehmer>
+    
+    <Teilnehmer> 
+        <Land> Aserbaidschan </Land>
+        <Vertreter Geschlecht ="Weiblich"> Səbinə Babayeva </Vertreter>
+        <Song Sprache ="en"> When the Music Dies </Song>
+        <grobePlatzierung>Finale</grobePlatzierung>
+        <genauePlatzierung> 04 </genauePlatzierung>
+    </Teilnehmer>
+    
+</Contest>
+    
+<Contest Jahr ="2013">
+        
+    <Logo> ..\Bilder\Logos\2013.jpg </Logo>
+    <Bühnenbild> ..\Bilder\Bühnenbilder\2013.jpg </Bühnenbild>
+    <Titelbild> ../Bilder/Titelbilder/2013.png </Titelbild>
+    <Informationstext>
+        Der 58. Eurovision Song Contest fand vom 14. bis 18. Mai 2013 in der Malmö Arena statt. Ausrichter war Sveriges Television 
+        (SVT), nachdem die für Schweden angetretene Sängerin Loreen mit dem Beitrag Euphoria den Eurovision Song Contest 2012 in Baku gewonnen hatte.
+        Das Finale wurde von über 170 Millionen Zuschauern gesehen. Sieger wurde das Lied Only Teardrops, vorgetragen von der dänischen Sängerin Emmelie de 
+        Forest.
+    </Informationstext>
+    
+    <Teilnehmer> 
+        <Land> Belgien </Land>
+        <Vertreter Geschlecht ="Männlich"> Roberto Bellarosa </Vertreter>
+        <Song Sprache ="en"> Love Kills </Song>
+        <grobePlatzierung>Finale</grobePlatzierung>
+        <genauePlatzierung> 13 </genauePlatzierung>
+    </Teilnehmer>
+    
+    <Teilnehmer> 
+        <Land> Dänemark </Land>
+        <Vertreter Geschlecht ="Weiblich"> Emmelie de Forest </Vertreter>
+        <Song Sprache ="en"> Only Teardrops </Song>
+        <grobePlatzierung>Finale</grobePlatzierung>
+        <genauePlatzierung> 01 </genauePlatzierung>
+    </Teilnehmer>
+    
+    
+    <Teilnehmer> 
+        <Land> Estland </Land>
+        <Vertreter Geschlecht ="Weiblich"> Birgit </Vertreter>
+        <Song Sprache ="est"> Et uus saaks alguse </Song>
+        <grobePlatzierung>Finale</grobePlatzierung>
+        <genauePlatzierung> 20 </genauePlatzierung>
+    </Teilnehmer>
+    
+    
+    <Teilnehmer> 
+        <Land>  Irland </Land>
+        <Vertreter Geschlecht ="Männlich"> Ryan Dolan </Vertreter>
+        <Song Sprache ="en"> Only Love Survives </Song>
+        <grobePlatzierung>Finale</grobePlatzierung>
+        <genauePlatzierung> 26 </genauePlatzierung>
+    </Teilnehmer>
+    
+    
+    <Teilnehmer> 
+        <Land> Kroatien </Land>
+        <Vertreter Geschlecht ="Männlich"> Klapa s mora </Vertreter>
+        <Song Sprache ="kr"> Mižerja </Song>
+        <grobePlatzierung>Halbfinale</grobePlatzierung>
+        <genauePlatzierung> 13 </genauePlatzierung>
+    </Teilnehmer>
+    
+    
+    <Teilnehmer> 
+        <Land> Litauen </Land>
+        <Vertreter Geschlecht ="Männlich"> Andrius Pojavis </Vertreter>
+        <Song Sprache ="en"> Something </Song>
+        <grobePlatzierung>Finale</grobePlatzierung>
+        <genauePlatzierung> 22 </genauePlatzierung>
+    </Teilnehmer>
+    
+    
+    <Teilnehmer> 
+        <Land> Moldau </Land>
+        <Vertreter Geschlecht ="Weiblich"> 	Aliona Moon </Vertreter>
+        <Song Sprache ="rum"> O mie </Song>
+        <grobePlatzierung>Finale</grobePlatzierung>
+        <genauePlatzierung> 11 </genauePlatzierung>
+    </Teilnehmer>
+    
+    
+    <Teilnehmer> 
+        <Land> Montenegro </Land>
+        <Vertreter Geschlecht ="Gemischt"> Who See/Nina Žižić </Vertreter>
+        <Song Sprache ="mont"> Igranka </Song>
+        <grobePlatzierung>Halbfinale</grobePlatzierung>
+        <genauePlatzierung> 12 </genauePlatzierung>
+    </Teilnehmer>
+    
+    
+    <Teilnehmer> 
+        <Land>  Niederlande </Land>
+        <Vertreter Geschlecht ="Weiblich"> Anouk </Vertreter>
+        <Song Sprache ="en"> Birds </Song>
+        <grobePlatzierung>Finale</grobePlatzierung>
+        <genauePlatzierung> 09 </genauePlatzierung>
+    </Teilnehmer>
+    
+    
+    <Teilnehmer> 
+        <Land> Österreich </Land>
+        <Vertreter Geschlecht ="Weiblich"> 	Natália Kelly </Vertreter>
+        <Song Sprache ="en"> Shine </Song>
+        <grobePlatzierung>Halbfinale</grobePlatzierung>
+        <genauePlatzierung> 14 </genauePlatzierung>
+    </Teilnehmer>
+    
+    
+    <Teilnehmer> 
+        <Land> Russland </Land>
+        <Vertreter Geschlecht ="Weiblich"> 	Dina Garipowa </Vertreter>
+        <Song Sprache ="en"> What If </Song>
+        <grobePlatzierung>Finale</grobePlatzierung>
+        <genauePlatzierung> 05 </genauePlatzierung>
+    </Teilnehmer>
+    
+    
+    <Teilnehmer> 
+        <Land> Serbien </Land>
+        <Vertreter Geschlecht ="Gemischt"> Moje 3 </Vertreter>
+        <Song Sprache ="srb"> Ljubav je svuda  </Song>
+        <grobePlatzierung>Halbfinale</grobePlatzierung>
+        <genauePlatzierung> 11 </genauePlatzierung>
+    </Teilnehmer>
+    
+    
+    <Teilnehmer> 
+        <Land> Slowenien </Land>
+        <Vertreter Geschlecht ="Weiblich"> Hannah </Vertreter>
+        <Song Sprache ="en"> Straight into Love </Song>
+        <grobePlatzierung>Halbfinale</grobePlatzierung>
+        <genauePlatzierung> 16 </genauePlatzierung>
+    </Teilnehmer>
+    
+    
+    <Teilnehmer> 
+        <Land> Ukraine </Land>
+        <Vertreter Geschlecht ="Weiblich"> Zlata Ognevich </Vertreter>
+        <Song Sprache ="en"> Gravity </Song>
+        <grobePlatzierung>Finale</grobePlatzierung>
+        <genauePlatzierung> 03 </genauePlatzierung>
+    </Teilnehmer>
+    
+    
+    <Teilnehmer> 
+        <Land> Weißrussland </Land>
+        <Vertreter Geschlecht ="Weiblich"> Alyona Lanskaya </Vertreter>
+        <Song Sprache ="en"> Solayoh </Song>
+        <grobePlatzierung>Finale</grobePlatzierung>
+        <genauePlatzierung> 16 </genauePlatzierung>
+    </Teilnehmer>
+    
+    
+    <Teilnehmer> 
+        <Land>  Zypern </Land>
+        <Vertreter Geschlecht ="Weiblich"> 	Despina Olympiou </Vertreter>
+        <Song Sprache ="gr"> An me thimasai  </Song>
+        <grobePlatzierung>Halbfinale</grobePlatzierung>
+        <genauePlatzierung> 15 </genauePlatzierung>
+    </Teilnehmer>
+    
+    
+    <Teilnehmer> 
+        <Land> Aserbaidschan </Land>
+        <Vertreter Geschlecht ="Männlich"> Farid Mammadov </Vertreter>
+        <Song Sprache ="en"> Hold Me </Song>
+        <grobePlatzierung>Finale</grobePlatzierung>
+        <genauePlatzierung> 02 </genauePlatzierung>
+    </Teilnehmer>
+    
+    
+    <Teilnehmer> 
+        <Land> Griechenland </Land>
+        <Vertreter Geschlecht ="Weiblich"> Koza Mostra/Agathonas Iakovidis </Vertreter>
+        <Song Sprache ="en"> Alcohol Is Free </Song>
+        <grobePlatzierung>Finale</grobePlatzierung>
+        <genauePlatzierung> 06 </genauePlatzierung>
+    </Teilnehmer>
+    
+    
+    <Teilnehmer> 
+        <Land> Norwegen </Land>
+        <Vertreter Geschlecht ="Weiblich"> Margaret Berger </Vertreter>
+        <Song Sprache ="en"> I Feed You My Love </Song>
+        <grobePlatzierung>Finale</grobePlatzierung>
+        <genauePlatzierung> 04 </genauePlatzierung>
+    </Teilnehmer>
+    
+    
+    <Teilnehmer> 
+        <Land>  Malta </Land>
+        <Vertreter Geschlecht ="Männlich"> Gianluca </Vertreter>
+        <Song Sprache ="en"> Tomorrow </Song>
+        <grobePlatzierung>Finale</grobePlatzierung>
+        <genauePlatzierung> 08 </genauePlatzierung>
+    </Teilnehmer>
+    
+    
+    <Teilnehmer> 
+        <Land> Rumänien </Land>
+        <Vertreter Geschlecht ="Männlich"> 	Cezar </Vertreter>
+        <Song Sprache ="en"> It’s My Life </Song>
+        <grobePlatzierung>Finale</grobePlatzierung>
+        <genauePlatzierung> 13 </genauePlatzierung>
+    </Teilnehmer>
+    
+    
+    <Teilnehmer> 
+        <Land> Island </Land>
+        <Vertreter Geschlecht ="Männlich"> Eythor Ingi </Vertreter>
+        <Song Sprache ="isl"> 	Ég á líf </Song>
+        <grobePlatzierung>Finale</grobePlatzierung>
+        <genauePlatzierung> 17 </genauePlatzierung>
+    </Teilnehmer>
+    
+    
+    <Teilnehmer> 
+        <Land> Armenien </Land>
+        <Vertreter Geschlecht ="Gemischt"> Dorians </Vertreter>
+        <Song Sprache ="en"> 	Lonely Planet </Song>
+        <grobePlatzierung>Finale</grobePlatzierung>
+        <genauePlatzierung> 18 </genauePlatzierung>
+    </Teilnehmer>
+    
+    
+    <Teilnehmer> 
+        <Land> Albanien </Land>
+        <Vertreter Geschlecht ="Gemischt"> Adrian Lulgjuraj/Bledar Sejko </Vertreter>
+        <Song Sprache ="alb"> Identitet </Song>
+        <grobePlatzierung>Halbfinale</grobePlatzierung>
+        <genauePlatzierung> 15 </genauePlatzierung>
+    </Teilnehmer>
+    
+    
+    <Teilnehmer> 
+        <Land> Bulgarien </Land>
+        <Vertreter Geschlecht ="Gemischt"> Elitsa Todorova/Stoyan Yankulov </Vertreter>
+        <Song Sprache ="bg"> Samo shampioni  </Song>
+        <grobePlatzierung>Finale</grobePlatzierung>
+        <genauePlatzierung> 01 </genauePlatzierung>
+    </Teilnehmer>
+    
+    
+    <Teilnehmer> 
+        <Land> Finnland </Land>
+        <Vertreter Geschlecht ="Weiblich"> Krista Siegfrids </Vertreter>
+        <Song Sprache ="en"> Marry Me </Song>
+        <grobePlatzierung>Finale</grobePlatzierung>
+        <genauePlatzierung> 24 </genauePlatzierung>
+    </Teilnehmer>
+    
+    
+    <Teilnehmer> 
+        <Land> Georgien </Land>
+        <Vertreter Geschlecht ="Gemischt"> Nodi Tatishvili/Sophie Gelovani </Vertreter>
+        <Song Sprache ="en"> Waterfall </Song>
+        <grobePlatzierung>Finale</grobePlatzierung>
+        <genauePlatzierung> 15 </genauePlatzierung>
+    </Teilnehmer>
+    
+    
+    <Teilnehmer> 
+        <Land> Israel </Land>
+        <Vertreter Geschlecht ="Weiblich"> Moran Mazor </Vertreter>
+        <Song Sprache ="heb"> Rak bishvilo </Song>
+        <grobePlatzierung>Halbfinale</grobePlatzierung>
+        <genauePlatzierung> 14 </genauePlatzierung>
+    </Teilnehmer>
+    
+    
+    <Teilnehmer> 
+        <Land> Lettland </Land>
+        <Vertreter Geschlecht ="Männlich"> PeR </Vertreter>
+        <Song Sprache ="en"> Here We Go </Song>
+        <grobePlatzierung>Halbfinale</grobePlatzierung>
+        <genauePlatzierung> 17 </genauePlatzierung>
+    </Teilnehmer>
+    
+    
+    <Teilnehmer> 
+        <Land> Mazedonien </Land>
+        <Vertreter Geschlecht ="Gemischt"> Esma/Lozano </Vertreter>
+        <Song Sprache ="maz"> Pred da se razdeni  </Song>
+        <grobePlatzierung>Halbfinale</grobePlatzierung>
+        <genauePlatzierung> 16 </genauePlatzierung>
+    </Teilnehmer>
+    
+    
+    <Teilnehmer> 
+        <Land> San Marino </Land>
+        <Vertreter Geschlecht ="Weiblich"> Valentina Monetta </Vertreter>
+        <Song Sprache ="it"> Crisalide (Vola) </Song>
+        <grobePlatzierung>Halbfinale</grobePlatzierung>
+        <genauePlatzierung> 11 </genauePlatzierung>
+    </Teilnehmer>
+    
+    
+    <Teilnehmer> 
+        <Land> Schweiz </Land>
+        <Vertreter Geschlecht ="Gemischt"> Takasa </Vertreter>
+        <Song Sprache ="en"> You and Me </Song>
+        <grobePlatzierung>Halbfinale</grobePlatzierung>
+        <genauePlatzierung> 13 </genauePlatzierung>
+    </Teilnehmer>
+    
+    
+    <Teilnehmer> 
+        <Land> Ungarn </Land>
+        <Vertreter Geschlecht ="Männlich"> ByeAlex </Vertreter>
+        <Song Sprache ="un"> Kedvesem  </Song>
+        <grobePlatzierung>Finale</grobePlatzierung>
+        <genauePlatzierung> 10 </genauePlatzierung>
+    </Teilnehmer>
+    
+    
+    <Teilnehmer> 
+        <Land> Spanien </Land>
+        <Vertreter Geschlecht ="Weiblich"> ESDM </Vertreter>
+        <Song Sprache ="sp"> Contigo hasta el final </Song>
+        <grobePlatzierung>Finale</grobePlatzierung>
+        <genauePlatzierung> 25 </genauePlatzierung>
+    </Teilnehmer>
+    
+    
+    <Teilnehmer> 
+        <Land> Frankreich </Land>
+        <Vertreter Geschlecht ="Weiblich"> Amandine Bourgeois </Vertreter>
+        <Song Sprache ="fr"> L’enfer et moi </Song>
+        <grobePlatzierung>Finale</grobePlatzierung>
+        <genauePlatzierung> 23 </genauePlatzierung>
+    </Teilnehmer>
+    
+    
+    <Teilnehmer> 
+        <Land> Deutschland </Land>
+        <Vertreter Geschlecht ="Weiblich"> Cascada </Vertreter>
+        <Song Sprache ="en"> Glorious </Song>
+        <grobePlatzierung>Finale</grobePlatzierung>
+        <genauePlatzierung> 21 </genauePlatzierung>
+    </Teilnehmer>
+    
+    
+    <Teilnehmer> 
+        <Land> Großbritannien </Land>
+        <Vertreter Geschlecht ="Weiblich"> Bonnie Tyler </Vertreter>
+        <Song Sprache ="en"> Believe in Me </Song>
+        <grobePlatzierung>Finale</grobePlatzierung>
+        <genauePlatzierung> 19 </genauePlatzierung>
+    </Teilnehmer>
+    
+    
+    <Teilnehmer> 
+        <Land> Schweden </Land>
+        <Vertreter Geschlecht ="Weiblich"> Robin Stjernberg </Vertreter>
+        <Song Sprache ="en"> You </Song>
+        <grobePlatzierung>Finale</grobePlatzierung>
+        <genauePlatzierung> 14 </genauePlatzierung>
+    </Teilnehmer>
+    
+    
+    <Teilnehmer> 
+        <Land> Italien </Land>
+        <Vertreter Geschlecht ="Weiblich"> 	Marco Mengoni </Vertreter>
+        <Song Sprache ="it"> L’essenziale </Song>
+        <grobePlatzierung>Finale</grobePlatzierung>
+        <genauePlatzierung> 07 </genauePlatzierung>
+    </Teilnehmer>
+
+</Contest>
+    
+<Contest Jahr ="2014">
+        
+    <Logo> ..\Bilder\Logos\2014.jpg </Logo>
+    <Bühnenbild> ..\Bilder\Bühnenbilder\2014.jpg </Bühnenbild>
+    <Titelbild> ../Bilder/Titelbilder/2014.jpg </Titelbild>
+    <Informationstext>
+        Der 59. Eurovision Song Contest fand vom 6. bis 10. Mai 2014[5] in der dänischen Hauptstadt Kopenhagen statt. 
+        Nachdem Lise Cabble, Julia Fabrin Jakobsen und Thomas Stengaard mit dem Lied Only Teardrops am 18. Mai 2013 in der Interpretation von 
+        Emmelie de Forest den 58. Eurovision Song Contest in Malmö (Schweden) gewonnen hatten, wurde das Danmarks Radio (DR) mit der Ausrichtung des
+        Eurovision Song Contests beauftragt. Dänemark wurde damit zum dritten Mal Ausrichter der Veranstaltung nach 1964 und 2001.
+        Den Wettbewerb gewann für Österreich das Lied Rise Like a Phoenix, komponiert vom Autorenteam Alexander „Ali“ Zuckowski, Julian Maas, 
+        Robin Grubert und Charley Mason, vorgetragen von Conchita Wurst. Dies war nach 1966 der zweite Sieg für Österreich und mit 290 Punkten 
+        der damals vierthöchste Sieg in der Geschichte des Wettbewerbs.
+        Conchita Wurst trat als Dragqueen auf. Die Figur und der Auftritt polarisierten stark und führten zu unterschiedlichen Reaktionen. 
+        Der Sieg wurde teilweise sehr negativ kommentiert, während andere ihren Sieg als positives Zeichen der Toleranz werteten.
+        Den zweiten und dritten Platz belegten die Beiträge aus den Niederlanden und Schweden. Montenegro und San Marino konnten 
+        zum ersten Mal in der Geschichte des Eurovision Song Contest in ein Finale einziehen.
+    </Informationstext>
+    
+    <Teilnehmer> 
+        <Land> Albanien </Land>
+        <Vertreter Geschlecht ="Weiblich"> Hersi </Vertreter>
+        <Song Sprache ="en"> One Night’s Anger </Song>
+        <grobePlatzierung>Halbfinale</grobePlatzierung>
+        <genauePlatzierung> 15 </genauePlatzierung>
+    </Teilnehmer>
+    
+    <Teilnehmer> 
+        <Land> Armenien </Land>
+        <Vertreter Geschlecht ="Männlich"> Aram Mp3 </Vertreter>
+        <Song Sprache ="en"> Not Alone </Song>
+        <grobePlatzierung>Finale</grobePlatzierung>
+        <genauePlatzierung> 04 </genauePlatzierung>
+    </Teilnehmer>
+    
+    <Teilnehmer> 
+        <Land> Aserbaidschan </Land>
+        <Vertreter Geschlecht ="Weiblich"> 	Dilara Kazimova </Vertreter>
+        <Song Sprache ="en"> Start a Fire </Song>
+        <grobePlatzierung>Finale</grobePlatzierung>
+        <genauePlatzierung> 22 </genauePlatzierung>
+    </Teilnehmer>
+    
+    <Teilnehmer> 
+        <Land> Belgien </Land>
+        <Vertreter Geschlecht ="Männlich"> Axel Hirsoux </Vertreter>
+        <Song Sprache ="en"> Mother </Song>
+        <grobePlatzierung>Halbfinale</grobePlatzierung>
+        <genauePlatzierung> 14 </genauePlatzierung>
+    </Teilnehmer>
+    
+    <Teilnehmer> 
+        <Land> Estland </Land>
+        <Vertreter Geschlecht ="Weiblich"> Tanja </Vertreter>
+        <Song Sprache ="en"> Amazing </Song>
+        <grobePlatzierung>Halbfinale</grobePlatzierung>
+        <genauePlatzierung> 12 </genauePlatzierung>
+    </Teilnehmer>
+    
+    <Teilnehmer> 
+        <Land> Island </Land>
+        <Vertreter Geschlecht ="Männlich"> Pollapönk </Vertreter>
+        <Song Sprache ="en"> No Prejudice </Song>
+        <grobePlatzierung>Finale</grobePlatzierung>
+        <genauePlatzierung> 15 </genauePlatzierung>
+    </Teilnehmer>
+    
+    <Teilnehmer> 
+        <Land> Lettland </Land>
+        <Vertreter Geschlecht ="Gemischt"> Aarzemnieki </Vertreter>
+        <Song Sprache ="en"> Cake to Bake </Song>
+        <grobePlatzierung>Halbfinale</grobePlatzierung>
+        <genauePlatzierung> 13 </genauePlatzierung>
+    </Teilnehmer>
+    
+    <Teilnehmer> 
+        <Land> Moldau </Land>
+        <Vertreter Geschlecht ="Weiblich"> Cristina Scarlat </Vertreter>
+        <Song Sprache ="en"> Wild Soul </Song>
+        <grobePlatzierung>Halbfinale</grobePlatzierung>
+        <genauePlatzierung> 16 </genauePlatzierung>
+    </Teilnehmer>
+    
+    <Teilnehmer> 
+        <Land> Montenegro </Land>
+        <Vertreter Geschlecht ="Männlich"> Sergej Ćetković </Vertreter>
+        <Song Sprache ="mont"> SatMoj Svijet ellite </Song>
+        <grobePlatzierung>Finale</grobePlatzierung>
+        <genauePlatzierung> 19 </genauePlatzierung>
+    </Teilnehmer>
+    
+    <Teilnehmer> 
+        <Land> Niederlande </Land>
+        <Vertreter Geschlecht ="Gemischt"> 	The Common Linnets </Vertreter>
+        <Song Sprache ="en"> Satellite </Song>
+        <grobePlatzierung>Finale</grobePlatzierung>
+        <genauePlatzierung> 02 </genauePlatzierung>
+    </Teilnehmer>
+    
+    <Teilnehmer> 
+        <Land> Portugal </Land>
+        <Vertreter Geschlecht ="Weiblich"> Suzy </Vertreter>
+        <Song Sprache ="pt"> Quero ser tua </Song>
+        <grobePlatzierung>Halbfinale</grobePlatzierung>
+        <genauePlatzierung> 11 </genauePlatzierung>
+    </Teilnehmer>
+    
+    <Teilnehmer> 
+        <Land> Russland </Land>
+        <Vertreter Geschlecht ="Weiblich"> Tolmatschowa-Schwestern </Vertreter>
+        <Song Sprache ="en"> Shine </Song>
+        <grobePlatzierung>Finale</grobePlatzierung>
+        <genauePlatzierung> 07 </genauePlatzierung>
+    </Teilnehmer>
+    
+    <Teilnehmer> 
+        <Land> San Marino </Land>
+        <Vertreter Geschlecht ="Weiblich"> Valentina Monetta </Vertreter>
+        <Song Sprache ="en"> Maybe </Song>
+        <grobePlatzierung>Finale</grobePlatzierung>
+        <genauePlatzierung> 24 </genauePlatzierung>
+    </Teilnehmer>
+    
+    <Teilnehmer> 
+        <Land> Schweden </Land>
+        <Vertreter Geschlecht ="Weiblich"> Sanna Nielsen </Vertreter>
+        <Song Sprache ="en"> 	Undo </Song>
+        <grobePlatzierung>Finale</grobePlatzierung>
+        <genauePlatzierung> 03 </genauePlatzierung>
+    </Teilnehmer>
+    
+    <Teilnehmer> 
+        <Land> Ukraine </Land>
+        <Vertreter Geschlecht ="Weiblich"> Marija Jaremtschuk </Vertreter>
+        <Song Sprache ="en"> Tick-Tock </Song>
+        <grobePlatzierung>Finale</grobePlatzierung>
+        <genauePlatzierung> 06 </genauePlatzierung>
+    </Teilnehmer>
+    
+    <Teilnehmer> 
+        <Land> Ungarn </Land>
+        <Vertreter Geschlecht ="Männlich"> András Kállay-Saunders </Vertreter>
+        <Song Sprache ="en"> Running </Song>
+        <grobePlatzierung>Finale</grobePlatzierung>
+        <genauePlatzierung> 05 </genauePlatzierung>
+    </Teilnehmer>
+    
+    <Teilnehmer> 
+        <Land> Finnland </Land>
+        <Vertreter Geschlecht ="Gemischt"> Softengine </Vertreter>
+        <Song Sprache ="en"> Something Better </Song>
+        <grobePlatzierung>Finale</grobePlatzierung>
+        <genauePlatzierung> 11 </genauePlatzierung>
+    </Teilnehmer>
+    
+    <Teilnehmer> 
+        <Land> Georgien </Land>
+        <Vertreter Geschlecht ="Gemischt"> 	The Shin/Mariko </Vertreter>
+        <Song Sprache ="en"> Three Minutes to Earth </Song>
+        <grobePlatzierung>Finale</grobePlatzierung>
+        <genauePlatzierung> 15 </genauePlatzierung>
+    </Teilnehmer>
+    
+    <Teilnehmer> 
+        <Land> Griechenland </Land>
+        <Vertreter Geschlecht ="Männlich"> Freaky Fortune/Risky Kidd </Vertreter>
+        <Song Sprache ="en"> Rise Up </Song>
+        <grobePlatzierung>Finale</grobePlatzierung>
+        <genauePlatzierung> 20 </genauePlatzierung>
+    </Teilnehmer>
+    
+    <Teilnehmer> 
+        <Land> Irland </Land>
+        <Vertreter Geschlecht ="Weiblich"> Can-Linn/Kasey Smith </Vertreter>
+        <Song Sprache ="en"> Heartbeat </Song>
+        <grobePlatzierung>Halbfinale</grobePlatzierung>
+        <genauePlatzierung> 12 </genauePlatzierung>
+    </Teilnehmer>
+    
+    <Teilnehmer> 
+        <Land> Israel </Land>
+        <Vertreter Geschlecht ="Weiblich"> Mei Feingold </Vertreter>
+        <Song Sprache ="en"> Same Heart </Song>
+        <grobePlatzierung>Halbfinale</grobePlatzierung>
+        <genauePlatzierung> 14 </genauePlatzierung>
+    </Teilnehmer>
+    
+    <Teilnehmer> 
+        <Land> Litauen </Land>
+        <Vertreter Geschlecht ="Weiblich"> 	Vilija Matačiūnaitė </Vertreter>
+        <Song Sprache ="en"> Attention </Song>
+        <grobePlatzierung>Halbfinale</grobePlatzierung>
+        <genauePlatzierung> 11 </genauePlatzierung>
+    </Teilnehmer>
+    
+    <Teilnehmer> 
+        <Land>  Malta </Land>
+        <Vertreter Geschlecht ="Gemischt"> Firelight </Vertreter>
+        <Song Sprache ="en"> Coming Home </Song>
+        <grobePlatzierung>Finale</grobePlatzierung>
+        <genauePlatzierung> 23 </genauePlatzierung>
+    </Teilnehmer>
+    
+    <Teilnehmer> 
+        <Land> Mazedonien </Land>
+        <Vertreter Geschlecht ="Weiblich"> Tijana Dapčević </Vertreter>
+        <Song Sprache ="en"> To the Sky </Song>
+        <grobePlatzierung>Finale</grobePlatzierung>
+        <genauePlatzierung> 13 </genauePlatzierung>
+    </Teilnehmer>
+    
+    <Teilnehmer> 
+        <Land>  Norwegen </Land>
+        <Vertreter Geschlecht ="Männlich"> Carl Espen </Vertreter>
+        <Song Sprache ="en"> Silent Storm </Song>
+        <grobePlatzierung>Finale</grobePlatzierung>
+        <genauePlatzierung> 08 </genauePlatzierung>
+    </Teilnehmer>
+    
+    <Teilnehmer> 
+        <Land> Österreich </Land>
+        <Vertreter Geschlecht ="Gemischt"> Conchita Wurst </Vertreter>
+        <Song Sprache ="en"> Rise Like a Phoenix </Song>
+        <grobePlatzierung>Finale</grobePlatzierung>
+        <genauePlatzierung> 01 </genauePlatzierung>
+    </Teilnehmer>
+    
+    <Teilnehmer> 
+        <Land> Polen </Land>
+        <Vertreter Geschlecht ="Weiblich"> Donatan/Cleo </Vertreter>
+        <Song Sprache ="pol"> My Słowianie  </Song>
+        <grobePlatzierung>Finale</grobePlatzierung>
+        <genauePlatzierung> 14 </genauePlatzierung>
+    </Teilnehmer>
+    
+    <Teilnehmer> 
+        <Land> Rumänien </Land>
+        <Vertreter Geschlecht ="Gemischt"> Paula Seling/Ovi </Vertreter>
+        <Song Sprache ="en"> Miracle </Song>
+        <grobePlatzierung>Finale</grobePlatzierung>
+        <genauePlatzierung> 12 </genauePlatzierung>
+    </Teilnehmer>
+    
+    <Teilnehmer> 
+        <Land> Schweiz </Land>
+        <Vertreter Geschlecht ="Männlich"> Sebalter </Vertreter>
+        <Song Sprache ="en"> 	Hunter of Stars </Song>
+        <grobePlatzierung>Finale</grobePlatzierung>
+        <genauePlatzierung> 13 </genauePlatzierung>
+    </Teilnehmer>
+    
+    <Teilnehmer> 
+        <Land> Slowenien </Land>
+        <Vertreter Geschlecht ="Weiblich"> Tinkara Kovač </Vertreter>
+        <Song Sprache ="en"> Round and Round </Song>
+        <grobePlatzierung>Finale</grobePlatzierung>
+        <genauePlatzierung> 25 </genauePlatzierung>
+    </Teilnehmer>
+    
+    <Teilnehmer> 
+        <Land> Weißrussland </Land>
+        <Vertreter Geschlecht ="Männlich"> Teo </Vertreter>
+        <Song Sprache ="en"> Cheesecake </Song>
+        <grobePlatzierung>Finale</grobePlatzierung>
+        <genauePlatzierung> 16 </genauePlatzierung>
+    </Teilnehmer>
+    
+    <Teilnehmer> 
+        <Land> Frankreich </Land>
+        <Vertreter Geschlecht ="Männlich"> TWIN TWIN </Vertreter>
+        <Song Sprache ="fr"> Moustache </Song>
+        <grobePlatzierung>Finale</grobePlatzierung>
+        <genauePlatzierung> 26 </genauePlatzierung>
+    </Teilnehmer>
+    
+    <Teilnehmer> 
+        <Land> Italien </Land>
+        <Vertreter Geschlecht ="Weiblich"> Emma Marrone </Vertreter>
+        <Song Sprache ="it"> La mia città </Song>
+        <grobePlatzierung>Finale</grobePlatzierung>
+        <genauePlatzierung> 21 </genauePlatzierung>
+    </Teilnehmer>
+    
+    <Teilnehmer> 
+        <Land> Deutschland </Land>
+        <Vertreter Geschlecht ="Weiblich"> 	Elaiza </Vertreter>
+        <Song Sprache ="en"> 	Is It Right </Song>
+        <grobePlatzierung>Finale</grobePlatzierung>
+        <genauePlatzierung> 18 </genauePlatzierung>
+    </Teilnehmer>
+    
+    <Teilnehmer> 
+        <Land> Großbritannien </Land>
+        <Vertreter Geschlecht ="Weiblich"> Molly </Vertreter>
+        <Song Sprache ="en"> Children of the Universe </Song>
+        <grobePlatzierung>Finale</grobePlatzierung>
+        <genauePlatzierung> 17 </genauePlatzierung>
+    </Teilnehmer>
+    
+    <Teilnehmer> 
+        <Land> Spanien </Land>
+        <Vertreter Geschlecht ="Weiblich"> Ruth Lorenzo </Vertreter>
+        <Song Sprache ="en"> 	Dancing in the Rain </Song>
+        <grobePlatzierung>Finale</grobePlatzierung>
+        <genauePlatzierung> 10 </genauePlatzierung>
+    </Teilnehmer>
+    
+    <Teilnehmer> 
+        <Land> Dänemark </Land>
+        <Vertreter Geschlecht ="Gemischt"> Basim </Vertreter>
+        <Song Sprache ="en"> Cliché Love Song </Song>
+        <grobePlatzierung>Finale</grobePlatzierung>
+        <genauePlatzierung> 09 </genauePlatzierung>
+    </Teilnehmer>
+    
+</Contest>
+    
+<Contest Jahr ="2015">
+        
+    <Logo> ..\Bilder\Logos\2015.jpg </Logo>
+    <Bühnenbild> ..\Bilder\Bühnenbilder\2015.jpg </Bühnenbild>
+    <Titelbild> ../Bilder/Titelbilder/2015.png </Titelbild>
+    <Informationstext>
+        Der 60. Eurovision Song Contest fand vom 19. bis 23. Mai 2015 in Wien statt. Damit war die österreichische Hauptstadt 
+        nach dem Eurovision Song Contest 1967 zum zweiten Mal Austragungsort. Das Motto des Wettbewerbs lautete Building Bridges (englisch für Brücken 
+        bauen) und wurde am 11. September 2014 vom ORF präsentiert.
+        Australien erhielt aus Anlass des 60. Jubiläums durch die Europäische Rundfunkunion (EBU) eine Einladung zur Teilnahme, da die Veranstaltung dort 
+        sehr beliebt ist und seit 30 Jahren übertragen wird. Damit traten im Finale insgesamt 27 Länder an, mehr als je zuvor.
+        Den Song-Contest gewann für Schweden das Lied Heroes, das von Måns Zelmerlöw vorgetragen wurde, mit insgesamt 365 Punkten vor Russland mit 303 
+        Punkten und Italien mit 292 Punkten. Erstmals in der Wettbewerbsgeschichte erzielten nicht nur der Sieger, sondern beide Erstplatzierten über 300 
+        Punkte. Erstmals seit Einführung der kombinierten Wertung im Jahr 2009 gewann nicht der im Televoting vorn liegende Beitrag (Italien). Schweden 
+        gewann den Wettbewerb schon zum sechsten Mal und rückte in der Wettbewerbsgeschichte auf Platz zwei hinter Irland vor, das sieben Gewinne vorweisen 
+        kann.
+        Österreich und Deutschland – als Ausrichterland bzw. einer der fünf großen Geldgeber beide ohne Halbfinalteilnahme im Finale gesetzt – blieben ohne 
+        Punkte. Österreich wurde vor Deutschland platziert, da bei Punktegleichstand weitere Faktoren zur Ermittlung der Reihenfolge herangezogen werden, in 
+        diesem Falle die Startreihenfolge. Für Deutschland war es die dritte und für das Gastgeberland Österreich die vierte Teilnahme komplett ohne Punkte.
+        Damit blieb zum ersten Mal seit dem Eurovision Song Contest 2003 ein Land im Finale ohne Punkte und zum ersten Mal seit dem Eurovision Song Contest 
+        1997 erhielten sogar zwei Länder gleichzeitig keine Punkte. Außerdem war es der erste Fall in der Geschichte des ESC, dass das Gastgeberland ohne 
+        Punkterfolg blieb.
+    </Informationstext>
+    
+    <Teilnehmer> 
+        <Land> Albanien </Land>
+        <Vertreter Geschlecht ="Weiblich"> Elhaida Dani </Vertreter>
+        <Song Sprache ="en"> I’m Alive </Song>
+        <grobePlatzierung>Finale</grobePlatzierung>
+        <genauePlatzierung> 17 </genauePlatzierung>
+    </Teilnehmer>
+    
+    <Teilnehmer> 
+        <Land> Armenien </Land>
+        <Vertreter Geschlecht ="Gemischt"> Genealogy </Vertreter>
+        <Song Sprache ="en"> Face the Shadow </Song>
+        <grobePlatzierung>Finale</grobePlatzierung>
+        <genauePlatzierung> 16 </genauePlatzierung>
+    </Teilnehmer>
+    
+    <Teilnehmer> 
+        <Land> Belgien </Land>
+        <Vertreter Geschlecht ="Männlich"> Loïc Nottet </Vertreter>
+        <Song Sprache ="en"> 	Rhythm Inside </Song>
+        <grobePlatzierung>Finale</grobePlatzierung>
+        <genauePlatzierung> 04 </genauePlatzierung>
+    </Teilnehmer>
+    
+    <Teilnehmer> 
+        <Land> Dänemark </Land>
+        <Vertreter Geschlecht ="Männlich"> Anti Social Media </Vertreter>
+        <Song Sprache ="en"> The Way You Are </Song>
+        <grobePlatzierung>Halbfinale</grobePlatzierung>
+        <genauePlatzierung> 13 </genauePlatzierung>
+    </Teilnehmer>
+    
+    <Teilnehmer> 
+        <Land> Estland </Land>
+        <Vertreter Geschlecht ="Gemischt"> 	Elina Born/Stig Rästa </Vertreter>
+        <Song Sprache ="en"> Goodbye to Yesterday </Song>
+        <grobePlatzierung>Finale</grobePlatzierung>
+        <genauePlatzierung> 07 </genauePlatzierung>
+    </Teilnehmer>
+    
+    <Teilnehmer> 
+        <Land> Finnland </Land>
+        <Vertreter Geschlecht ="Männlich"> Pertti Kurikan Nimipäivät </Vertreter>
+        <Song Sprache ="fin"> Aina mun pitää </Song>
+        <grobePlatzierung>Halbfinale</grobePlatzierung>
+        <genauePlatzierung> 16 </genauePlatzierung>
+    </Teilnehmer>
+    
+    <Teilnehmer> 
+        <Land> Georgien </Land>
+        <Vertreter Geschlecht ="Weiblich"> Nina Sublatti </Vertreter>
+        <Song Sprache ="en"> Warrior </Song>
+        <grobePlatzierung>Finale</grobePlatzierung>
+        <genauePlatzierung> 11 </genauePlatzierung>
+    </Teilnehmer>
+    
+    <Teilnehmer> 
+        <Land> Griechenland </Land>
+        <Vertreter Geschlecht ="Weiblich"> 	Maria Elena Kyriakou </Vertreter>
+        <Song Sprache ="en"> One Last Breath </Song>
+        <grobePlatzierung>Finale</grobePlatzierung>
+        <genauePlatzierung> 19 </genauePlatzierung>
+    </Teilnehmer>
+    
+    <Teilnehmer> 
+        <Land> Mazedonien </Land>
+        <Vertreter Geschlecht ="Männlich"> Daniel Kajmakoski </Vertreter>
+        <Song Sprache ="en"> Autumn Leaves </Song>
+        <grobePlatzierung>Halbfinale</grobePlatzierung>
+        <genauePlatzierung> 15 </genauePlatzierung>
+    </Teilnehmer>
+    
+    <Teilnehmer> 
+        <Land> Moldau </Land>
+        <Vertreter Geschlecht ="Männlich"> Eduard Romanyuta </Vertreter>
+        <Song Sprache ="en"> I Want Your Love </Song>
+        <grobePlatzierung>Halbfinale</grobePlatzierung>
+        <genauePlatzierung> 11 </genauePlatzierung>
+    </Teilnehmer>
+    
+    <Teilnehmer> 
+        <Land> Niederlande </Land>
+        <Vertreter Geschlecht ="Weiblich"> 	Trijntje Oosterhuis </Vertreter>
+        <Song Sprache ="en"> Walk Along </Song>
+        <grobePlatzierung>Halbfinale</grobePlatzierung>
+        <genauePlatzierung> 14 </genauePlatzierung>
+    </Teilnehmer>
+    
+    <Teilnehmer> 
+        <Land> Rumänien </Land>
+        <Vertreter Geschlecht ="Gemischt"> Voltaj </Vertreter>
+        <Song Sprache ="rum"> De la capăt  </Song>
+        <grobePlatzierung>Finale</grobePlatzierung>
+        <genauePlatzierung> 15 </genauePlatzierung>
+    </Teilnehmer>
+    
+    <Teilnehmer> 
+        <Land> Russland </Land>
+        <Vertreter Geschlecht ="Weiblich"> Polina Gagarina </Vertreter>
+        <Song Sprache ="en"> A Million Voices </Song>
+        <grobePlatzierung>Finale</grobePlatzierung>
+        <genauePlatzierung> 02 </genauePlatzierung>
+    </Teilnehmer>
+    
+    <Teilnehmer> 
+        <Land> Serbien </Land>
+        <Vertreter Geschlecht ="Weiblich"> Bojana Stamenov </Vertreter>
+        <Song Sprache ="en"> Beauty Never Lies </Song>
+        <grobePlatzierung>Finale</grobePlatzierung>
+        <genauePlatzierung> 10 </genauePlatzierung>
+    </Teilnehmer>
+    
+    <Teilnehmer> 
+        <Land> Ungarn </Land>
+        <Vertreter Geschlecht ="Weiblich"> Boggie </Vertreter>
+        <Song Sprache ="en"> Wars for Nothing </Song>
+        <grobePlatzierung>Finale</grobePlatzierung>
+        <genauePlatzierung> 20 </genauePlatzierung>
+    </Teilnehmer>
+    
+    <Teilnehmer> 
+        <Land> Weißrussland </Land>
+        <Vertreter Geschlecht ="Weiblich"> Uzari/Maimuna </Vertreter>
+        <Song Sprache ="en"> Time </Song>
+        <grobePlatzierung>Halbfinale</grobePlatzierung>
+        <genauePlatzierung> 12 </genauePlatzierung>
+    </Teilnehmer>
+    
+    <Teilnehmer> 
+        <Land> Schweden </Land>
+        <Vertreter Geschlecht ="Männlich"> 	Måns Zelmerlöw </Vertreter>
+        <Song Sprache ="en"> Heroes </Song>
+        <grobePlatzierung>Finale</grobePlatzierung>
+        <genauePlatzierung> 01 </genauePlatzierung>
+    </Teilnehmer>
+    
+    <Teilnehmer> 
+        <Land> Lettland </Land>
+        <Vertreter Geschlecht ="Weiblich"> Aminata </Vertreter>
+        <Song Sprache ="en"> Love Injected </Song>
+        <grobePlatzierung>Finale</grobePlatzierung>
+        <genauePlatzierung> 06 </genauePlatzierung>
+    </Teilnehmer>
+    
+    <Teilnehmer> 
+        <Land> Israel </Land>
+        <Vertreter Geschlecht ="Männlich"> Nadav Guedj </Vertreter>
+        <Song Sprache ="en"> Golden Boy </Song>
+        <grobePlatzierung>Finale</grobePlatzierung>
+        <genauePlatzierung> 09 </genauePlatzierung>
+    </Teilnehmer>
+    
+    <Teilnehmer> 
+        <Land> Norwegen </Land>
+        <Vertreter Geschlecht ="Gemischt"> Mørland/Debrah Scarlett </Vertreter>
+        <Song Sprache ="en"> A Monster Like Me </Song>
+        <grobePlatzierung>Finale</grobePlatzierung>
+        <genauePlatzierung> 08 </genauePlatzierung>
+    </Teilnehmer>
+    
+    <Teilnehmer> 
+        <Land> Slowenien </Land>
+        <Vertreter Geschlecht ="Weiblich"> Maraaya </Vertreter>
+        <Song Sprache ="en"> Here for You </Song>
+        <grobePlatzierung>Finale</grobePlatzierung>
+        <genauePlatzierung> 14 </genauePlatzierung>
+    </Teilnehmer>
+    
+    <Teilnehmer> 
+        <Land> Zypern </Land>
+        <Vertreter Geschlecht ="Männlich"> John Karayiannis </Vertreter>
+        <Song Sprache ="en"> One Thing I Should Have Done </Song>
+        <grobePlatzierung>Finale</grobePlatzierung>
+        <genauePlatzierung> 22 </genauePlatzierung>
+    </Teilnehmer>
+    
+    <Teilnehmer> 
+        <Land> Aserbaidschan </Land>
+        <Vertreter Geschlecht ="Männlich"> 	Elnur Huseynov </Vertreter>
+        <Song Sprache ="en"> Hour of the Wolf </Song>
+        <grobePlatzierung>Finale</grobePlatzierung>
+        <genauePlatzierung> 12 </genauePlatzierung>
+    </Teilnehmer>
+    
+    <Teilnehmer> 
+        <Land> Irland </Land>
+        <Vertreter Geschlecht ="Weiblich"> Molly Sterling </Vertreter>
+        <Song Sprache ="en"> Playing with Numbers </Song>
+        <grobePlatzierung>Halbfinale</grobePlatzierung>
+        <genauePlatzierung> 12 </genauePlatzierung>
+    </Teilnehmer>
+    
+    <Teilnehmer> 
+        <Land> Island </Land>
+        <Vertreter Geschlecht ="Weiblich"> María Ólafs </Vertreter>
+        <Song Sprache ="en"> Unbroken </Song>
+        <grobePlatzierung>Halbfinale</grobePlatzierung>
+        <genauePlatzierung> 15 </genauePlatzierung>
+    </Teilnehmer>
+    
+    <Teilnehmer> 
+        <Land> Malta </Land>
+        <Vertreter Geschlecht ="Weiblich"> 	Amber </Vertreter>
+        <Song Sprache ="en"> Warrior </Song>
+        <grobePlatzierung>Halbfinale</grobePlatzierung>
+        <genauePlatzierung> 11 </genauePlatzierung>
+    </Teilnehmer>
+    
+    <Teilnehmer> 
+        <Land> Montenegro </Land>
+        <Vertreter Geschlecht ="Männlich"> Knez </Vertreter>
+        <Song Sprache ="en"> Adio </Song>
+        <grobePlatzierung>Finale</grobePlatzierung>
+        <genauePlatzierung> 13 </genauePlatzierung>
+    </Teilnehmer>
+    
+    <Teilnehmer> 
+        <Land> Portugal </Land>
+        <Vertreter Geschlecht ="Weiblich"> 	Leonor Andrade </Vertreter>
+        <Song Sprache ="en"> Há um mar que nos separa </Song>
+        <grobePlatzierung>Halbfinale</grobePlatzierung>
+        <genauePlatzierung> 14 </genauePlatzierung>
+    </Teilnehmer>
+    
+    <Teilnehmer> 
+        <Land> San Marino </Land>
+        <Vertreter Geschlecht ="Gemischt"> Anita Simoncini/Michele Perniola </Vertreter>
+        <Song Sprache ="en"> Chain of Lights </Song>
+        <grobePlatzierung>Halbfinale</grobePlatzierung>
+        <genauePlatzierung> 16 </genauePlatzierung>
+    </Teilnehmer>
+    
+    <Teilnehmer> 
+        <Land> Schweiz </Land>
+        <Vertreter Geschlecht ="Weiblich"> Mélanie René </Vertreter>
+        <Song Sprache ="en"> Time to Shine </Song>
+        <grobePlatzierung>Halbfinale</grobePlatzierung>
+        <genauePlatzierung> 17 </genauePlatzierung>
+    </Teilnehmer>
+    
+    <Teilnehmer> 
+        <Land> Tschechien </Land>
+        <Vertreter Geschlecht ="Weiblich"> Marta Jandová/Václav Noid Bárta </Vertreter>
+        <Song Sprache ="en"> Hope Never Dies </Song>
+        <grobePlatzierung>Halbfinale</grobePlatzierung>
+        <genauePlatzierung> 13 </genauePlatzierung>
+    </Teilnehmer>
+    
+    <Teilnehmer> 
+        <Land> Deutschland </Land>
+        <Vertreter Geschlecht ="Weiblich"> Ann Sophie </Vertreter>
+        <Song Sprache ="en"> Black Smoke </Song>
+        <grobePlatzierung>Finale</grobePlatzierung>
+        <genauePlatzierung> 27 </genauePlatzierung>
+    </Teilnehmer>
+    
+    <Teilnehmer> 
+        <Land> Österreich </Land>
+        <Vertreter Geschlecht ="Männlich"> 	The Makemakes </Vertreter>
+        <Song Sprache ="en"> I Am Yours </Song>
+        <grobePlatzierung>Finale</grobePlatzierung>
+        <genauePlatzierung> 26 </genauePlatzierung>
+    </Teilnehmer>
+    
+    <Teilnehmer> 
+        <Land> Frankreich </Land>
+        <Vertreter Geschlecht ="Weiblich"> Lisa Angell </Vertreter>
+        <Song Sprache ="fr"> N’oubliez pas </Song>
+        <grobePlatzierung>Finale</grobePlatzierung>
+        <genauePlatzierung> 25 </genauePlatzierung>
+    </Teilnehmer>
+    
+    <Teilnehmer> 
+        <Land> Großbritannien </Land>
+        <Vertreter Geschlecht ="Gemischt"> Electro Velvet </Vertreter>
+        <Song Sprache ="en"> Still in Love with You </Song>
+        <grobePlatzierung>Finale</grobePlatzierung>
+        <genauePlatzierung> 24 </genauePlatzierung>
+    </Teilnehmer>
+    
+    <Teilnehmer> 
+        <Land> Spanien </Land>
+        <Vertreter Geschlecht ="Weiblich"> Edurne </Vertreter>
+        <Song Sprache ="sp"> 	Amanecer </Song>
+        <grobePlatzierung>Finale</grobePlatzierung>
+        <genauePlatzierung> 21 </genauePlatzierung>
+    </Teilnehmer>
+    
+    <Teilnehmer> 
+        <Land> Italien </Land>
+        <Vertreter Geschlecht ="Gemischt"> Il Volo </Vertreter>
+        <Song Sprache ="it"> Grande amore </Song>
+        <grobePlatzierung>Finale</grobePlatzierung>
+        <genauePlatzierung> 03 </genauePlatzierung>
+    </Teilnehmer>
+    
+</Contest>
+    
+<Contest Jahr ="2016">
+        
+    <Logo> ..\Bilder\Logos\2016.jpg </Logo>
+    <Bühnenbild> ..\Bilder\Bühnenbilder\2016.jpg </Bühnenbild>
+    <Titelbild> ../Bilder/Titelbilder/2016.jpg </Titelbild>
+    <Informationstext>
+        Der 61. Eurovision Song Contest fand vom 10. bis 14. Mai 2016 in der Globen Arena in der schwedischen Hauptstadt 
+        Stockholm statt. Die Stadt richtete nach 1975 und 2000 den Wettbewerb zum dritten Mal aus. Nachdem Måns Zelmerlöw mit dem Lied Heroes am 
+        23. Mai 2015 den ESC 2015 in Wien gewonnen hatte, war die schwedische Rundfunkanstalt SVT mit der Ausrichtung der kommenden Veranstaltung 
+        beauftragt worden.
+        Den Wettbewerb gewann für die Ukraine Jamala mit dem Lied 1944, das die Sängerin mit Arthur Antonyan geschrieben hat; den zweiten Platz erreichte 
+        Australien.
+        Der Siegertitel ist eine Anspielung auf das Jahr, in dem Josef Stalin die Krimtataren nach Zentralasien deportieren ließ. Der Songtext ist in 
+        Englisch verfasst, der Refrain in Krimtatarisch. Die Ukraine nahm nach einer einjährigen Abwesenheit wieder teil, nachdem sie 2015 aus finanziellen 
+        Gründen und wegen der politischen Lage im Land auf die Teilnahme verzichtet hatte.
+        Bei der EBU waren im Vorfeld zahlreiche Beschwerden, vor allem aus Russland, gegen das Lied eingegangen, da ESC-Beiträge laut Regelwerk keine 
+        politischen Statements enthalten dürfen. Die Gremien der EBU entschieden jedoch, dass 1944 die Regeln des Wettbewerbs nicht verletze. Das Lied sei 
+        geprüft worden und die Verantwortlichen zu dem Schluss gekommen, dass „der Titel und der Text keine politische Botschaft enthalten und dass der Song 
+        nicht im Widerspruch zu den Regeln des Wettbewerbs steht“. Der Song beschreibt ausführlich die Ereignisse von vor etwa 70 Jahren; die Annexion der 
+        Krim durch Russland wird darin nicht direkt thematisiert.
+    </Informationstext>
+    
+    <Teilnehmer> 
+        <Land> Armenien </Land>
+        <Vertreter Geschlecht ="Weiblich"> Iveta Mukuchyan </Vertreter>
+        <Song Sprache ="en"> LoveWave </Song>
+        <grobePlatzierung>Finale</grobePlatzierung>
+        <genauePlatzierung> 07 </genauePlatzierung>
+    </Teilnehmer>
+    
+    <Teilnehmer> 
+        <Land> Aserbaidschan </Land>
+        <Vertreter Geschlecht ="Weiblich"> Samra </Vertreter>
+        <Song Sprache ="en"> 	Miracle </Song>
+        <grobePlatzierung>Finale</grobePlatzierung>
+        <genauePlatzierung> 17 </genauePlatzierung>
+    </Teilnehmer>
+    
+    <Teilnehmer> 
+        <Land> Bosnien-Herzegowina </Land>
+        <Vertreter Geschlecht ="Gemischt"> Dalal/Deen feat. Ana Rucner/Jala </Vertreter>
+        <Song Sprache ="bos"> Ljubav je </Song>
+        <grobePlatzierung>Halbfinale</grobePlatzierung>
+        <genauePlatzierung> 11 </genauePlatzierung>
+    </Teilnehmer>
+    
+    <Teilnehmer> 
+        <Land> Estland </Land>
+        <Vertreter Geschlecht ="Männlich"> Jüri Pootsmann </Vertreter>
+        <Song Sprache ="en"> Play </Song>
+        <grobePlatzierung>Halbfinale</grobePlatzierung>
+        <genauePlatzierung> 18 </genauePlatzierung>
+    </Teilnehmer>
+    
+    <Teilnehmer> 
+        <Land> Finnland </Land>
+        <Vertreter Geschlecht ="Weiblich"> Sandhja </Vertreter>
+        <Song Sprache ="en"> Sing It Away </Song>
+        <grobePlatzierung>Halbfinale</grobePlatzierung>
+        <genauePlatzierung> 15 </genauePlatzierung>
+    </Teilnehmer>
+    
+    <Teilnehmer> 
+        <Land> Griechenland </Land>
+        <Vertreter Geschlecht ="Gemischt"> Argo </Vertreter>
+        <Song Sprache ="en"> Utopian Land </Song>
+        <grobePlatzierung>Halbfinale</grobePlatzierung>
+        <genauePlatzierung> 16 </genauePlatzierung>
+    </Teilnehmer>
+    
+    <Teilnehmer> 
+        <Land> Island </Land>
+        <Vertreter Geschlecht ="Weiblich"> 	Greta Salóme </Vertreter>
+        <Song Sprache ="en"> Hear Them Calling </Song>
+        <grobePlatzierung>Halbfinale</grobePlatzierung>
+        <genauePlatzierung> 14 </genauePlatzierung>
+    </Teilnehmer>
+    
+    <Teilnehmer> 
+        <Land> Kroatien </Land>
+        <Vertreter Geschlecht ="Weiblich"> Nina Kraljić </Vertreter>
+        <Song Sprache ="en"> Lighthouse </Song>
+        <grobePlatzierung>Finale</grobePlatzierung>
+        <genauePlatzierung> 23 </genauePlatzierung>
+    </Teilnehmer>
+    
+    <Teilnehmer> 
+        <Land> Malta </Land>
+        <Vertreter Geschlecht ="Weiblich"> Ira Losco </Vertreter>
+        <Song Sprache ="en"> Walk on Water </Song>
+        <grobePlatzierung>Finale</grobePlatzierung>
+        <genauePlatzierung> 12 </genauePlatzierung>
+    </Teilnehmer>
+    
+    <Teilnehmer> 
+        <Land> Moldau </Land>
+        <Vertreter Geschlecht ="Weiblich"> Lidia Isac </Vertreter>
+        <Song Sprache ="en"> Falling Stars </Song>
+        <grobePlatzierung>Halbfinale</grobePlatzierung>
+        <genauePlatzierung> 17 </genauePlatzierung>
+    </Teilnehmer>
+    
+    <Teilnehmer> 
+        <Land> Montenegro </Land>
+        <Vertreter Geschlecht ="Männlich"> 	Highway </Vertreter>
+        <Song Sprache ="en"> The Real Thing </Song>
+        <grobePlatzierung>Halbfinale</grobePlatzierung>
+        <genauePlatzierung> 13 </genauePlatzierung>
+    </Teilnehmer>
+    
+    <Teilnehmer> 
+        <Land> Niederlande </Land>
+        <Vertreter Geschlecht ="Männlich"> Douwe Bob </Vertreter>
+        <Song Sprache ="en"> Slow Down </Song>
+        <grobePlatzierung>Finale</grobePlatzierung>
+        <genauePlatzierung> 11 </genauePlatzierung>
+    </Teilnehmer>
+    
+    <Teilnehmer> 
+        <Land> Österreich </Land>
+        <Vertreter Geschlecht ="Weiblich"> ZOË </Vertreter>
+        <Song Sprache ="fr"> 	Loin d’ici </Song>
+        <grobePlatzierung>Finale</grobePlatzierung>
+        <genauePlatzierung> 13 </genauePlatzierung>
+    </Teilnehmer>
+    
+    <Teilnehmer> 
+        <Land> Russland </Land>
+        <Vertreter Geschlecht ="Männlich"> Sergei Lasarew </Vertreter>
+        <Song Sprache ="en"> You Are the Only One </Song>
+        <grobePlatzierung>Finale</grobePlatzierung>
+        <genauePlatzierung> 03 </genauePlatzierung>
+    </Teilnehmer>
+    
+    <Teilnehmer> 
+        <Land> San Marino </Land>
+        <Vertreter Geschlecht ="Männlich"> Serhat </Vertreter>
+        <Song Sprache ="en"> I Didn’t Know </Song>
+        <grobePlatzierung>Halbfinale</grobePlatzierung>
+        <genauePlatzierung> 12 </genauePlatzierung>
+    </Teilnehmer>
+    
+    <Teilnehmer> 
+        <Land> Tschechien </Land>
+        <Vertreter Geschlecht ="Weiblich"> Gabriela Gunčíková </Vertreter>
+        <Song Sprache ="en"> Gunčíková	I Stand </Song>
+        <grobePlatzierung>Finale</grobePlatzierung>
+        <genauePlatzierung> 25 </genauePlatzierung>
+    </Teilnehmer>
+    
+    <Teilnehmer> 
+        <Land> Ungarn </Land>
+        <Vertreter Geschlecht ="Männlich"> Freddie </Vertreter>
+        <Song Sprache ="en"> Pioneer </Song>
+        <grobePlatzierung>Finale</grobePlatzierung>
+        <genauePlatzierung> 19 </genauePlatzierung>
+    </Teilnehmer>
+    
+    <Teilnehmer> 
+        <Land>  Zypern </Land>
+        <Vertreter Geschlecht ="Männlich"> Minus One </Vertreter>
+        <Song Sprache ="en"> Alter Ego </Song>
+        <grobePlatzierung>Finale</grobePlatzierung>
+        <genauePlatzierung> 21 </genauePlatzierung>
+    </Teilnehmer>
+    
+    <Teilnehmer> 
+        <Land> Albanien </Land>
+        <Vertreter Geschlecht ="Weiblich"> Eneda Tarifa </Vertreter>
+        <Song Sprache ="en"> Fairytale </Song>
+        <grobePlatzierung>Halbfinale</grobePlatzierung>
+        <genauePlatzierung> 16 </genauePlatzierung>
+    </Teilnehmer>
+    
+    <Teilnehmer> 
+        <Land> Australien </Land>
+        <Vertreter Geschlecht ="Weiblich"> Dami Im </Vertreter>
+        <Song Sprache ="en"> Sound of Silence </Song>
+        <grobePlatzierung>Finale</grobePlatzierung>
+        <genauePlatzierung> 02 </genauePlatzierung>
+    </Teilnehmer>
+    
+    <Teilnehmer> 
+        <Land> Belgien </Land>
+        <Vertreter Geschlecht ="Weiblich"> Laura Tesoro </Vertreter>
+        <Song Sprache ="en"> What’s the Pressure </Song>
+        <grobePlatzierung>Finale</grobePlatzierung>
+        <genauePlatzierung> 10 </genauePlatzierung>
+    </Teilnehmer>
+    
+    <Teilnehmer> 
+        <Land> Bulgarien </Land>
+        <Vertreter Geschlecht ="Weiblich"> Poli Genowa </Vertreter>
+        <Song Sprache ="en"> If Love Was a Crime </Song>
+        <grobePlatzierung>Finale</grobePlatzierung>
+        <genauePlatzierung> 04 </genauePlatzierung>
+    </Teilnehmer>
+    
+    <Teilnehmer> 
+        <Land> Dänemark </Land>
+        <Vertreter Geschlecht ="Männlich"> 	Lighthouse X </Vertreter>
+        <Song Sprache ="en"> Soldiers of Love </Song>
+        <grobePlatzierung>Halbfinale</grobePlatzierung>
+        <genauePlatzierung> 17 </genauePlatzierung>
+    </Teilnehmer>
+    
+    <Teilnehmer> 
+        <Land> Georgien </Land>
+        <Vertreter Geschlecht ="Männlich"> Nika K./Young Georgian Lolitaz </Vertreter>
+        <Song Sprache ="en"> Midnight Gold </Song>
+        <grobePlatzierung>Finale</grobePlatzierung>
+        <genauePlatzierung> 20 </genauePlatzierung>
+    </Teilnehmer>
+    
+    <Teilnehmer> 
+        <Land> Irland </Land>
+        <Vertreter Geschlecht ="Männlich"> Nicky Byrne </Vertreter>
+        <Song Sprache ="en"> Sunlight </Song>
+        <grobePlatzierung>Halbfinale</grobePlatzierung>
+        <genauePlatzierung> 15 </genauePlatzierung>
+    </Teilnehmer>
+    
+    <Teilnehmer> 
+        <Land> Israel </Land>
+        <Vertreter Geschlecht ="Männlich"> Hovi Star </Vertreter>
+        <Song Sprache ="en"> Made of Stars </Song>
+        <grobePlatzierung>Finale</grobePlatzierung>
+        <genauePlatzierung> 14 </genauePlatzierung>
+    </Teilnehmer>
+    
+    <Teilnehmer> 
+        <Land> Lettland </Land>
+        <Vertreter Geschlecht ="Männlich"> 	Justs </Vertreter>
+        <Song Sprache ="en"> Heartbeat </Song>
+        <grobePlatzierung>Finale</grobePlatzierung>
+        <genauePlatzierung> 15 </genauePlatzierung>
+    </Teilnehmer>
+    
+    <Teilnehmer> 
+        <Land> Litauen </Land>
+        <Vertreter Geschlecht ="Männlich"> Donny Montell </Vertreter>
+        <Song Sprache ="en"> I’ve Been Waiting for This Night </Song>
+        <grobePlatzierung>Finale</grobePlatzierung>
+        <genauePlatzierung> 09 </genauePlatzierung>
+    </Teilnehmer>
+    
+    <Teilnehmer> 
+        <Land> Mazedonien </Land>
+        <Vertreter Geschlecht ="Weiblich"> Kaliopi </Vertreter>
+        <Song Sprache ="maz"> Dona </Song>
+        <grobePlatzierung>Halbfinale</grobePlatzierung>
+        <genauePlatzierung> 11 </genauePlatzierung>
+    </Teilnehmer>
+    
+    <Teilnehmer> 
+        <Land> Norwegen </Land>
+        <Vertreter Geschlecht ="Weiblich"> Agnete </Vertreter>
+        <Song Sprache ="en"> Icebreaker </Song>
+        <grobePlatzierung>Halbfinale</grobePlatzierung>
+        <genauePlatzierung> 13 </genauePlatzierung>
+    </Teilnehmer>
+    
+    <Teilnehmer> 
+        <Land> Polen </Land>
+        <Vertreter Geschlecht ="Männlich"> Michał Szpak </Vertreter>
+        <Song Sprache ="en"> Color of Your Life </Song>
+        <grobePlatzierung>Finale</grobePlatzierung>
+        <genauePlatzierung> 08 </genauePlatzierung>
+    </Teilnehmer>
+    
+    <Teilnehmer> 
+        <Land> Schweiz </Land>
+        <Vertreter Geschlecht ="Weiblich"> Rykka </Vertreter>
+        <Song Sprache ="en"> The Last of Our Kind </Song>
+        <grobePlatzierung>Halbfinale</grobePlatzierung>
+        <genauePlatzierung> 18 </genauePlatzierung>
+    </Teilnehmer>
+    
+    <Teilnehmer> 
+        <Land> Serbien </Land>
+        <Vertreter Geschlecht ="Weiblich"> ZAA Sanja Vučić </Vertreter>
+        <Song Sprache ="en"> Goodbye (Shelter) </Song>
+        <grobePlatzierung>Finale</grobePlatzierung>
+        <genauePlatzierung> 18 </genauePlatzierung>
+    </Teilnehmer>
+    
+    <Teilnehmer> 
+        <Land> Slowenien </Land>
+        <Vertreter Geschlecht ="Weiblich"> ManuElla </Vertreter>
+        <Song Sprache ="en"> Blue and Red </Song>
+        <grobePlatzierung>Halbfinale</grobePlatzierung>
+        <genauePlatzierung> 14 </genauePlatzierung>
+    </Teilnehmer>
+    
+    <Teilnehmer> 
+        <Land> Ukraine </Land>
+        <Vertreter Geschlecht ="Weiblich"> Jamala </Vertreter>
+        <Song Sprache ="en"> 1944 </Song>
+        <grobePlatzierung>Finale</grobePlatzierung>
+        <genauePlatzierung> 02 </genauePlatzierung>
+    </Teilnehmer>
+    
+    <Teilnehmer> 
+        <Land> Weißrussland </Land>
+        <Vertreter Geschlecht ="Weiblich"> Help You Fly </Vertreter>
+        <Song Sprache ="en"> Ivan </Song>
+        <grobePlatzierung>Halbfinale</grobePlatzierung>
+        <genauePlatzierung> 12 </genauePlatzierung>
+    </Teilnehmer>
+    
+    <Teilnehmer> 
+        <Land> Deutschland </Land>
+        <Vertreter Geschlecht ="Weiblich"> Jamie-Lee </Vertreter>
+        <Song Sprache ="en"> Ghost </Song>
+        <grobePlatzierung>Finale</grobePlatzierung>
+        <genauePlatzierung> 26 </genauePlatzierung>
+    </Teilnehmer>
+    
+    <Teilnehmer> 
+        <Land> Großbritannien </Land>
+        <Vertreter Geschlecht ="Weiblich"> Joe/Jake </Vertreter>
+        <Song Sprache ="en"> You’re Not Alone </Song>
+        <grobePlatzierung>Finale</grobePlatzierung>
+        <genauePlatzierung> 24 </genauePlatzierung>
+    </Teilnehmer>
+    
+    <Teilnehmer> 
+        <Land> Spanien </Land>
+        <Vertreter Geschlecht ="Weiblich"> Barei </Vertreter>
+        <Song Sprache ="en"> Say Yay! </Song>
+        <grobePlatzierung>Finale</grobePlatzierung>
+        <genauePlatzierung> 22 </genauePlatzierung>
+    </Teilnehmer>
+    
+    <Teilnehmer> 
+        <Land> Italien </Land>
+        <Vertreter Geschlecht ="Weiblich"> Francesca Michielin </Vertreter>
+        <Song Sprache ="en"> No Degree of Separation </Song>
+        <grobePlatzierung>Finale</grobePlatzierung>
+        <genauePlatzierung> 16 </genauePlatzierung>
+    </Teilnehmer>
+    
+    <Teilnehmer> 
+        <Land> Frankreich </Land>
+        <Vertreter Geschlecht ="Weiblich"> Amir </Vertreter>
+        <Song Sprache ="fr"> J’ai cherché </Song>
+        <grobePlatzierung>Finale</grobePlatzierung>
+        <genauePlatzierung> 06 </genauePlatzierung>
+    </Teilnehmer>
+    
+    <Teilnehmer> 
+        <Land> Schweden </Land>
+        <Vertreter Geschlecht ="Weiblich"> Frans </Vertreter>
+        <Song Sprache ="en"> If I Were Sorry </Song>
+        <grobePlatzierung>Finale</grobePlatzierung>
+        <genauePlatzierung> 05 </genauePlatzierung>
+    </Teilnehmer>
+    
+</Contest>
+</ESC>

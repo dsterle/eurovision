@@ -1,0 +1,210 @@
+<!DOCTYPE html>
+
+<html lang ="de">
+	<head>
+		<title> ESC - Mediathek </title>
+		<link rel ="stylesheet" type ="text/css" href ="../CSS/ESC.css">
+		<meta charset="utf-8">
+		<script type ="text/javascript" src ="../Javascript/ESC.js"> </script>
+	</head>
+	<body>
+	
+<!-- Titelbild -->
+	
+	<header>
+		<img src="../Bilder/Titelbilder/ESC.png" id ="Titelbild" alt ="Eurovision-Song-Contest">
+	</header>
+
+<!-- Navigationsmenü -->
+	
+	<nav>
+		
+		<img id ="Menürotation" src ="../Bilder/ESC-Überschrift/ESC-Überschrift.png" alt ="ESC-Überschrift">
+		
+		<h1 id ="Menüüberschrift"> Welches ESC-Land gefällt Ihnen am Besten? </h1>
+		
+		<select id="ESCLand" name="ESCLand" required>
+			<option value="ESC-Überschrift"> Alle </option>
+			<option value="Belgien"> Belgien </option>
+			<option value="Griechenland"> Griechenland </option>
+			<option value="Island"> Island </option>
+			<option value="Portugal"> Portugal </option>
+			<option value="Serbien"> Serbien </option>
+			<option value="Albanien"> Albanien </option>
+			<option value="Russland"> Russland </option>
+			<option value="Bosnien-Herzegowina"> Bosnien-Herzegowina </option>
+			<option value="Weißrussland"> Weißrussland </option>
+			<option value="Moldau"> Moldau </option>
+			<option value="Finnland"> Finnland </option>
+			<option value="Malta"> Malta </option>
+			<option value="Polen"> Polen </option>
+			<option value="Estland"> Estland </option>
+			<option value="Mazedonien"> Mazedonien </option>
+			<option value="Slowakei"> Slowakei </option>
+			<option value="Lettland"> Lettland </option>
+			<option value="Türkei"> Türkei </option>
+			<option value="Aserbaidschan"> Aserbaidschan </option>
+			<option value="Georgien"> Georgien </option>
+			<option value="Rumänien"> Rumänien </option>
+			<option value="Dänemark"> Dänemark </option>
+			<option value="Armenien"> Armenien </option>
+			<option value="Ukraine"> Ukraine </option>
+			<option value="Israel"> Israel </option>
+			<option value="Irland"> Irland </option>
+			<option value="Zypern"> Zypern </option>
+			<option value="Schweden"> Schweden </option>
+			<option value="Litauen"> Litauen </option>
+			<option value="Kroatien"> Kroatien </option>
+			<option value="Niederlande"> Niederlande </option>
+			<option value="Bulgarien"> Bulgarien </option>
+			<option value="Slowenien"> Slowenien </option>
+			<option value="Schweiz"> Schweiz </option>
+			<option value="Deutschland"> Deutschland </option>
+			<option value="Frankreich"> Frankreich </option>
+			<option value="Spanien"> Spanien </option>
+			<option value="Großbritannien"> Großbritannien </option>
+			<option value="Andorra"> Andorra </option>
+			<option value="Australien"> Australien </option>
+			<option value="Luxemburg"> Luxemburg </option>
+			<option value="Marokko"> Marokko </option>
+			<option value="Monaco"> Monaco </option>
+			<option value="Montenegro"> Montenegro </option>
+			<option value="Norwegen"> Norwegen </option>
+			<option value="Österreich"> Österreich </option>
+			<option value="San Marino"> San Marino </option>
+			<option value="Tschechien"> Tschechien </option>
+			<option value="Ungarn"> Ungarn </option>
+		</select>
+		<button id ="Los" onclick ="Bildauswahl()"> Los! </button>
+		
+		<ul>
+			<li> <a href ="ESC-Mediathek.html"> Home </a> </li>
+			<li> <a href ="2010.html"> 2010 &nbsp; &nbsp; &nbsp; &nbsp; <i> Share the Moment </i> </a> </li> 
+			<li> <a href ="2011.html"> 2011 &nbsp; &nbsp; &nbsp; &nbsp; <i> Feel Your Heart Beat </i> </a> </li> 			
+			<li> <a href ="2012.html"> 2012 &nbsp; &nbsp; &nbsp; &nbsp; <i> Light Your Fire </i> </a> </li>
+			<li> <a href ="2013.html"> 2013 &nbsp; &nbsp; &nbsp; &nbsp; <i> We Are One </i> </a> </li>
+			<li> <a href ="2014.html"> 2014 &nbsp; &nbsp; &nbsp; &nbsp; <i> #JoinUs </i> </a> </li>			
+			<li> <a href ="2015.html"> 2015 &nbsp; &nbsp; &nbsp; &nbsp; <i> Building Bridges </i> </a> </li>
+			<li> <a href ="2016.html"> 2016 &nbsp; &nbsp; &nbsp; &nbsp; <i> Come together </i> </a> </li>
+			<li> <a href ="Kontakt.html#Infobox"> Kontakt </a> &nbsp; &nbsp; <button id ="Rückmeldung" onclick ="Rückmeldung()"> Rückmeldung Klick mich an :-) </button> </li>
+		</ul>
+		
+	</nav>
+	
+<!-- Kontaktformular -->
+	
+	<article id ="Infobox">
+	
+	<h3 id ="Infoüberschrift"> Um uns zu kontaktieren, füllen Sie bitte folgendes aus: </h3>
+		
+		<form action="#" method="get" accept-charset="UTF-8">
+		
+		<label for="anredeHerr">Herr</label>										<!-- Herr -->
+		<input						
+		type="radio"
+		id="anredeHerr"
+		name="anrede"	
+		value="M"
+		required>
+		
+		<label for="anredeFrau">Frau</label>										<!-- Frau -->
+		<input
+		type="radio"
+		id="anredeFrau"
+		name="anrede"
+		value="F"
+		required>
+		<br> <br>
+		
+		<label for ="nachname"> Nachname: </label> <br>								<!-- Nachname -->
+		<input
+		name="nachname"
+		id="nachname"
+		type="text"
+		maxlength="50"
+		placeholder="Mustermann"
+		required>											
+		<br>
+		
+		<label for ="vorname"> Vorname: </label> <br>								<!-- Vorname -->
+		<input
+		name="vorname"
+		id="vorname"
+		type="text"
+		maxlength="50"
+		placeholder="Max"
+		required>
+		<br>
+		
+		<label for ="Geburtsdatum"> Geburtsdatum: </label> <br>								<!-- Geburtsdatum -->
+		<input
+		name="Geburtsdatum"
+		id="Geburtsdatum"
+		type="date"
+		required>
+		<br>
+		
+		<label for ="Email"> E-Mail: </label> <br>									<!-- E-Mail -->
+		<input
+		name="Email"
+		id="Email"
+		type="email"
+		maxlength="50"
+		placeholder="Max@Musterstadt.de"
+		required>
+		<br>
+		
+		<label for ="Telefonnummer"> Telefonnummer: </label> <br>					<!-- Telefonnummer -->
+		<input
+		name="Telefonnummer"
+		id="Telefonnummer"
+		type="text"
+		maxlength="50"
+		placeholder="01234/5678912345">
+		<br>
+		
+		<label for ="Anliegen"> Anliegen </label> <br>								<!-- Auswahl: Anliegen -->
+		
+		<select id="farbe" name="farbe" required>
+		<option value="">bitte auswählen</option>
+		<option value="Rückmeldung"> Rückmeldung </option>
+		<option value="Presseanfrage"> Presseanfrage </option>
+		<option value="Praktikum/Arbeitsstelle/SHK"> Praktikum/Arbeitsstelle/SHK </option>
+		<option value="Sonstiges"> Sonstiges </option>
+		</select>
+		<br> <br>
+																					<!-- Textfeld für Anliegen -->
+		<textarea																	
+		name="Anliegen"
+		id="Anliegen"
+		rows="10"
+		cols="50"
+		required>
+		</textarea>
+		<br>
+		
+		<label for="Newsletter"> Newsletter abonnieren </label>						<!-- Newsletter abonnieren -->
+		<input
+		type="checkbox"
+		id="Newsletter"
+		name="Newsletter"
+		value="Newsletter">
+		<br>
+		
+		<label for="Nutzungsbed"> Ich stimme den Nutzungsbedingungen zu </label>	<!-- Nutzungsbedingungen -->
+		<input
+		type="checkbox"
+		id="Nutzungsbed"
+		name="Nutzungsbed"
+		value="Nutzungsbedingungen" 
+		required>
+		<br>
+		
+		<input type="submit" value="Absenden">										<!-- Absendebutton -->
+		
+		</form>
+		
+		</article>
+	
+	</body>
+</html>	

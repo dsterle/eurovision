@@ -1,0 +1,132 @@
+<!DOCTYPE html>
+
+<html lang ="de">
+	<head>
+		<title> ESC - Mediathek </title>
+		<link rel ="stylesheet" type ="text/css" href ="../CSS/ESC.css">
+		<meta charset="utf-8">
+		<script type ="text/javascript" src ="../Javascript/ESC.js"> </script>
+	</head>
+	<body onload ="DB2014()">
+		
+<!-- Titelbild --> 
+	
+	<header>
+		<img src="" id ="Titelbild" alt ="Eurovision-Song-Contest-2014-Kopenhagen">
+	</header>
+		
+<!-- Navigationsmenü -->
+	
+	<nav>
+		
+		<img id ="Menürotation" src ="../Bilder/ESC-Überschrift/ESC-Überschrift.png" alt ="ESC-Überschrift">
+		
+		<h1 id ="Menüüberschrift"> Welches ESC-Land gefällt Ihnen am Besten? </h1>
+		
+		<select id="ESCLand" name="ESCLand" required>
+			<option value="ESC-Überschrift"> Alle </option>
+			<option value="Belgien"> Belgien </option>
+			<option value="Griechenland"> Griechenland </option>
+			<option value="Island"> Island </option>
+			<option value="Portugal"> Portugal </option>
+			<option value="Serbien"> Serbien </option>
+			<option value="Albanien"> Albanien </option>
+			<option value="Russland"> Russland </option>
+			<option value="Bosnien-Herzegowina"> Bosnien-Herzegowina </option>
+			<option value="Weißrussland"> Weißrussland </option>
+			<option value="Moldau"> Moldau </option>
+			<option value="Finnland"> Finnland </option>
+			<option value="Malta"> Malta </option>
+			<option value="Polen"> Polen </option>
+			<option value="Estland"> Estland </option>
+			<option value="Mazedonien"> Mazedonien </option>
+			<option value="Slowakei"> Slowakei </option>
+			<option value="Lettland"> Lettland </option>
+			<option value="Türkei"> Türkei </option>
+			<option value="Aserbaidschan"> Aserbaidschan </option>
+			<option value="Georgien"> Georgien </option>
+			<option value="Rumänien"> Rumänien </option>
+			<option value="Dänemark"> Dänemark </option>
+			<option value="Armenien"> Armenien </option>
+			<option value="Ukraine"> Ukraine </option>
+			<option value="Israel"> Israel </option>
+			<option value="Irland"> Irland </option>
+			<option value="Zypern"> Zypern </option>
+			<option value="Schweden"> Schweden </option>
+			<option value="Litauen"> Litauen </option>
+			<option value="Kroatien"> Kroatien </option>
+			<option value="Niederlande"> Niederlande </option>
+			<option value="Bulgarien"> Bulgarien </option>
+			<option value="Slowenien"> Slowenien </option>
+			<option value="Schweiz"> Schweiz </option>
+			<option value="Deutschland"> Deutschland </option>
+			<option value="Frankreich"> Frankreich </option>
+			<option value="Spanien"> Spanien </option>
+			<option value="Großbritannien"> Großbritannien </option>
+			<option value="Andorra"> Andorra </option>
+			<option value="Australien"> Australien </option>
+			<option value="Luxemburg"> Luxemburg </option>
+			<option value="Marokko"> Marokko </option>
+			<option value="Monaco"> Monaco </option>
+			<option value="Montenegro"> Montenegro </option>
+			<option value="Norwegen"> Norwegen </option>
+			<option value="Österreich"> Österreich </option>
+			<option value="San Marino"> San Marino </option>
+			<option value="Tschechien"> Tschechien </option>
+			<option value="Ungarn"> Ungarn </option>
+		</select>
+		<button id ="Los" onclick ="Bildauswahl()"> Los! </button>
+		
+		<ul>
+			<li> <a href ="ESC-Mediathek.html"> Home </a> </li>
+			<li> <a href ="2010.html"> 2010 &nbsp; &nbsp; &nbsp; &nbsp; <i> Share the Moment </i> </a> </li> 
+			<li> <a href ="2011.html"> 2011 &nbsp; &nbsp; &nbsp; &nbsp; <i> Feel Your Heart Beat </i> </a> </li> 			
+			<li> <a href ="2012.html"> 2012 &nbsp; &nbsp; &nbsp; &nbsp; <i> Light Your Fire </i> </a> </li>
+			<li> <a href ="2013.html"> 2013 &nbsp; &nbsp; &nbsp; &nbsp; <i> We Are One </i> </a> </li>
+			<li> <a href ="2014.html"> 2014 &nbsp; &nbsp; &nbsp; &nbsp; <i> #JoinUs </i> </a> </li>			
+			<li> <a href ="2015.html"> 2015 &nbsp; &nbsp; &nbsp; &nbsp; <i> Building Bridges </i> </a> </li>
+			<li> <a href ="2016.html"> 2016 &nbsp; &nbsp; &nbsp; &nbsp; <i> Come together </i> </a> </li>
+			<li> <a href ="Kontakt.html#Infobox"> Kontakt </a> &nbsp; &nbsp; <button id ="Rückmeldung" onclick ="Rückmeldung()"> Rückmeldung Klick mich an :-) </button> </li>
+		</ul>
+
+<!-- Logo -->		
+		
+		<article id ="Logo">
+		
+			<img src ="" id ="Logobild" alt ="Logo">
+			
+		</article>
+		
+<!-- Bühnenbild -->
+		
+		<article id ="Bühne">
+		
+			<img src ="" id ="Bühnenbild" alt ="Bühnenbild">
+			
+		</article>
+		
+	</nav>
+		
+<!-- Informationstext zum ESC des jeweiligen Jahres -->
+	
+	<article id ="Infobox">
+	<h3 id ="Infoüberschrift"> Informationen zum ESC - 2014: </h3>
+	
+	<p id ="Informationstext"> </p>
+	
+	</article>
+	
+<!-- Tabelle mit Informationen aus der Datenbank -->
+	
+	<footer id ="Filterergebnis">
+	
+	<table border="6" cellspacing="0" cellpadding="6">
+	
+	<tr> <th class ="Land"> Land </th> <th class ="Vertreter"> Vertreter </th> <th class ="Song"> Song </th>  <th class ="grobePltz"> grobe Pltz. </th> <th class ="genauePltz"> genaue Pltz. </th> </tr>
+	<tr> <td id ="Land"> </td> <td id ="Vertreter"> </td> <td id ="Song"> </td> <td id ="grobePltz"> </td> <td id ="genauePltz"> </td> </tr>
+	</table>
+	
+	</footer>
+	
+	</body>
+</html>

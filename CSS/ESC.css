@@ -1,0 +1,251 @@
+body {
+	background: url("../Bilder/Sonstige/ESC Hintergrund.jpg");
+	background-attachment: fixed;
+}
+
+#Titelbild {
+	width: 950pt; 
+	height: 276pt; 
+	padding: 0px;
+	margin: 0px 0px 0px 110px;
+	border-radius: 15px;
+	box-shadow: 9px 5px 70px;
+}
+
+#Menürotation {
+	margin: 10px 0px 0px 50px;
+	width: 180px;
+	height: 90px;
+	animation: perspect 3s infinite linear;
+}
+
+#ESCLand {
+	margin: 0px 0px 0px 15px;
+}
+
+@keyframes perspect {
+   0% {transform:perspective(300px) rotateY(0deg)}
+   25% {transform:perspective(300px) rotateY(90deg)}
+   50% {transform:perspective(300px) rotateY(180deg)}
+   75% {transform:perspective(300px) rotateY(270deg)}
+   100% {transform:perspective(300px) rotateY(360deg)}
+}
+
+#Menüüberschrift {
+	margin: 0px 0px 10px 15px;
+	font-family: Arial;
+	font-size: 12pt;
+	-webkit-background-clip: text;
+	-webkit-text-fill-color: transparent;
+	background-image: linear-gradient(to bottom right, #0000FF,#A901DB);
+}
+
+#Los {
+	font-weight: bold;
+	-webkit-background-clip: text;
+	-webkit-text-fill-color: transparent;
+	background-image: linear-gradient(to bottom right, #0000FF,#A901DB);
+	border-color: #642EFE;
+	width:50px;
+	height:20px;
+	-webkit-transition: height 1s, width 1s;
+}
+
+#Los:hover {
+	width:115px;
+}
+
+a {
+	text-decoration: none;
+	color: #2E2EFE;
+}
+
+a:hover {
+	color: #C829E1;
+}
+
+li {
+	padding: 0px 0px 9px 0px;
+	font-size: 13pt;
+	list-style: none;
+}
+
+#Rückmeldung {
+	font-weight: bold;
+	-webkit-background-clip: text;
+	-webkit-text-fill-color: transparent;
+	background-image: linear-gradient(to bottom right, #0000FF,#A901DB);
+	border-color: #642EFE;
+	width:100px;
+	height:20px;
+	-webkit-transition: height 1s, width 1s;
+}
+
+#Rückmeldung:hover {
+	height:40px;
+	width: 130px;
+}
+
+nav {
+	margin: 10px 0px 0px 110px;
+	height: 355pt; 
+	width: 245pt;
+	border-radius: 15px;
+	background: white;
+	background-color: hsla(210, 100%, 60%, 0.7);
+	float: left;
+	background-attachment: fixed;
+	font-weight: bold;
+}
+
+#Infobox {
+	margin: 10px 250px 8px 445px;
+	height: auto; 
+	width: 684pt;
+	padding: 10px;
+	border-radius: 15px;
+	background: white;
+	background-color: hsla(210, 100%, 60%, 0.7);
+	box-shadow: 9px 5px 70px;
+}
+
+#Infoüberschrift {
+	font-family: Arial;
+	font-size: 180%;
+	-webkit-background-clip: text;
+	-webkit-text-fill-color: transparent;
+	background-image: linear-gradient(to bottom right, #0000FF,#A901DB);
+}
+
+#Informationstext {
+	-webkit-background-clip: text;
+	-webkit-text-fill-color: transparent;
+	background-image: linear-gradient(to bottom right, #0000FF,#A901DB);
+	font-family: Arial;
+	font-size: 130%;
+	font-weight: bold;
+}
+
+#Logo {
+	margin: 35px 5px 5px 0px;
+	height: 160pt; 
+	width: 245pt;
+	border-radius: 15px;
+	background: white;
+	background-color: hsla(210, 100%, 60%, 0.7);
+}
+
+#Logobild {
+	padding: 5pt 5pt 5pt 5pt;
+	height: 150pt; 
+	width: 235pt;
+	border-radius: 15px;
+}
+
+#Logobild2 {
+	padding: 5pt 5pt 5pt 5pt;
+	height: 150pt; 
+	width: 235pt;
+	border-radius: 15px;
+}
+
+#Bühne {
+	margin: 10px 5px 5px 0px;
+	height: 160pt; 
+	width: 245pt;
+	border-radius: 15px;
+	background: white;
+	background-color: hsla(210, 100%, 60%, 0.7);
+}
+
+#Bühnenbild {
+	padding: 5pt 5pt 5pt 5pt;
+	height: 150pt; 
+	width: 235pt;
+	border-radius: 15px;
+}
+
+#Filter {
+	margin: 65px 5px 5px 0px;
+	height: 315pt; 
+	width: 170pt;
+	padding: 10px;
+	border-radius: 15px;
+	background: white;
+	background-color: hsla(210, 100%, 60%, 0.7);
+}
+
+#Filterergebnis {
+	width: 684pt;
+	height: auto;
+	margin: 5px 0px 8px 445px;
+	padding: 10px;
+	border-radius: 15px;
+	background: white;
+	background-color: hsla(210, 100%, 60%, 0.5);
+	box-shadow: 9px 5px 70px;
+}
+
+table {
+	background: white;
+	background-color: hsla(200, 100%, 60%, 0.5);
+	border-color: hsla(240, 100%, 60%, 0.5);
+	border-radius: 15px;
+}
+
+hr { 
+    background: #2C80E6;
+	border-color: #2C80E6;
+}
+
+#Land {
+	width: 120pt;
+	-webkit-background-clip: text;
+	-webkit-text-fill-color: transparent;
+	background-image: linear-gradient(to bottom right, #0000FF,#A901DB);
+	font-weight: bold;
+}
+
+#Vertreter {
+	width: 195pt;
+	-webkit-background-clip: text;
+	-webkit-text-fill-color: transparent;
+	background-image: linear-gradient(to bottom right, #0000FF,#A901DB);
+	font-weight: bold;
+}
+
+#Song {
+	width: 185pt;
+	-webkit-background-clip: text;
+	-webkit-text-fill-color: transparent;
+	background-image: linear-gradient(to bottom right, #0000FF,#A901DB);
+	font-weight: bold;
+}
+
+#grobePltz {
+	width: 63.5pt;
+	-webkit-background-clip: text;
+	-webkit-text-fill-color: transparent;
+	background-image: linear-gradient(to bottom right, #0000FF,#A901DB);
+	font-weight: bold;
+}
+
+#genauePltz {
+	width: 15.5pt;
+	-webkit-background-clip: text;
+	-webkit-text-fill-color: transparent;
+	background-image: linear-gradient(to bottom right, #0000FF,#A901DB);
+	font-weight: bold;
+}
+
+input {
+	margin: 10px;
+}
+
+label {
+	font-size: 120%;
+	-webkit-background-clip: text;
+	-webkit-text-fill-color: transparent;
+	background-image: linear-gradient(to bottom right, #0000FF,#A901DB);
+}
+

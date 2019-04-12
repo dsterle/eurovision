@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xs:schema xmlns:xs="http://www.w3.org/2001/XMLSchema"
+    xmlns:vc="http://www.w3.org/2007/XMLSchema-versioning" elementFormDefault="qualified"
+    vc:minVersion="1.1"> 
+
+<xs:element name ="ESC">
+    <xs:complexType>
+        <xs:sequence>
+            <xs:element name="Contest" minOccurs="1" maxOccurs="unbounded">
+                <xs:complexType>
+                    <xs:sequence>
+                        <xs:element name ="Logo" type ="xs:anyURI" minOccurs="1" maxOccurs="1"/>
+                        <xs:element name ="Bühnenbild" type ="xs:anyURI" minOccurs="1" maxOccurs="1"/>
+                        <xs:element name ="Titelbild" type ="xs:anyURI" minOccurs="1" maxOccurs="1"/>
+                        <xs:element name ="Informationstext" type ="xs:string" minOccurs="1" maxOccurs="1"/>
+                        <xs:element name ="Teilnehmer" minOccurs="20" maxOccurs="46">                            
+                        <xs:complexType>
+                            <xs:sequence>
+                            <xs:element name ="Land" type="xs:string" minOccurs="1" maxOccurs="1"/>
+                            <xs:element name ="Vertreter" minOccurs="1" maxOccurs="1">
+                            <xs:complexType>
+                                <xs:simpleContent>
+                                    <xs:extension base="xs:string">                                       
+                                        <xs:attribute name ="Geschlecht">
+                                            <xs:simpleType>
+                                                <xs:restriction base ="xs:string">
+                                                    <xs:enumeration value ="Männlich"/>
+                                                    <xs:enumeration value ="Weiblich"/>
+                                                    <xs:enumeration value ="Gemischt"/>
+                                                </xs:restriction>
+                                            </xs:simpleType>
+                                        </xs:attribute>
+                                    </xs:extension>
+                                </xs:simpleContent>                   
+                            </xs:complexType>
+                        </xs:element>
+                        <xs:element name ="Song" minOccurs="1" maxOccurs="1">
+                            <xs:complexType>
+                                <xs:simpleContent>
+                                    <xs:extension base ="xs:string">
+                                        <xs:attribute name ="Sprache" type ="xs:language"/>                             
+                                    </xs:extension>
+                                </xs:simpleContent>
+                            </xs:complexType>
+                        </xs:element>
+                        <xs:element name ="grobePlatzierung" minOccurs="1" maxOccurs="1">
+                            <xs:simpleType>
+                                <xs:restriction base ="xs:string">
+                                    <xs:enumeration value ="Finale"/>
+                                    <xs:enumeration value ="Halbfinale"/>
+                                </xs:restriction>
+                            </xs:simpleType>
+                        </xs:element>
+                        <xs:element name ="genauePlatzierung" minOccurs="1" maxOccurs="1">
+                            <xs:simpleType>
+                                <xs:restriction base ="xs:integer">
+                                    <xs:pattern value="[0-2][0-9]"/>
+                                </xs:restriction>
+                            </xs:simpleType>
+                        </xs:element>
+                        </xs:sequence>
+                        </xs:complexType>
+                        </xs:element>
+                    </xs:sequence>
+                    <xs:attribute name ="Jahr">
+                        <xs:simpleType>
+                            <xs:restriction base ="xs:integer">
+                                <xs:pattern value="[2][0-9][1-9][0-9]"/>
+                            </xs:restriction>
+                        </xs:simpleType>
+                    </xs:attribute>
+                </xs:complexType>
+            </xs:element>
+        </xs:sequence>
+    </xs:complexType>
+</xs:element>
+</xs:schema>
+
