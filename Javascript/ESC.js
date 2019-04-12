@@ -12,7 +12,7 @@ function Rückmeldung() {
 		}
 }
 
-function DB2010(){																		/* Xpath-Funktion für den Zugriff auf die Datenbank 2010 */
+function DB2010(){																		/* Xpath-funktion für den Zugriff auf die Datenbank 2010 */
 
 var xhttp = new XMLHttpRequest();
 xhttp.onreadystatechange = function() {
