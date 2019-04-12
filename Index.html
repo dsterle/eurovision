@@ -1,140 +1,140 @@
 <!DOCTYPE html>
 
 <html lang ="de">
-	<head>
-		<title> ESC-Mediathek </title>
-		<link rel ="stylesheet" type ="text/css" href ="../CSS/ESC.css">
-		<meta charset="utf-8">
-		<script type ="text/javascript" src ="../Javascript/ESC.js"> </script>
-	</head>
-	<body>
-	
-<!-- Titelbild --> 
-	
-	<header>
-		<img src="../Bilder/Titelbilder/ESC.png" id ="Titelbild" alt ="Eurovision-Song-Contest">
-	</header>
-	
-<!-- Navigationsmenü -->	
-	
-	<nav>
-		
-		<img id ="Menürotation" src ="../Bilder/ESC-Überschrift/ESC-Überschrift.png" alt ="ESC-Überschrift">
-		
-		<h1 id ="Menüüberschrift"> Welches ESC-Land gefällt Ihnen am Besten? </h1>
-		
-		<select id="ESCLand" name="ESCLand" required>
-			<option value="ESC-Überschrift"> Alle </option>
-			<option value="Belgien"> Belgien </option>
-			<option value="Griechenland"> Griechenland </option>
-			<option value="Island"> Island </option>
-			<option value="Portugal"> Portugal </option>
-			<option value="Serbien"> Serbien </option>
-			<option value="Albanien"> Albanien </option>
-			<option value="Russland"> Russland </option>
-			<option value="Bosnien-Herzegowina"> Bosnien-Herzegowina </option>
-			<option value="Weißrussland"> Weißrussland </option>
-			<option value="Moldau"> Moldau </option>
-			<option value="Finnland"> Finnland </option>
-			<option value="Malta"> Malta </option>
-			<option value="Polen"> Polen </option>
-			<option value="Estland"> Estland </option>
-			<option value="Mazedonien"> Mazedonien </option>
-			<option value="Slowakei"> Slowakei </option>
-			<option value="Lettland"> Lettland </option>
-			<option value="Türkei"> Türkei </option>
-			<option value="Aserbaidschan"> Aserbaidschan </option>
-			<option value="Georgien"> Georgien </option>
-			<option value="Rumänien"> Rumänien </option>
-			<option value="Dänemark"> Dänemark </option>
-			<option value="Armenien"> Armenien </option>
-			<option value="Ukraine"> Ukraine </option>
-			<option value="Israel"> Israel </option>
-			<option value="Irland"> Irland </option>
-			<option value="Zypern"> Zypern </option>
-			<option value="Schweden"> Schweden </option>
-			<option value="Litauen"> Litauen </option>
-			<option value="Kroatien"> Kroatien </option>
-			<option value="Niederlande"> Niederlande </option>
-			<option value="Bulgarien"> Bulgarien </option>
-			<option value="Slowenien"> Slowenien </option>
-			<option value="Schweiz"> Schweiz </option>
-			<option value="Deutschland"> Deutschland </option>
-			<option value="Frankreich"> Frankreich </option>
-			<option value="Spanien"> Spanien </option>
-			<option value="Großbritannien"> Großbritannien </option>
-			<option value="Andorra"> Andorra </option>
-			<option value="Australien"> Australien </option>
-			<option value="Luxemburg"> Luxemburg </option>
-			<option value="Marokko"> Marokko </option>
-			<option value="Monaco"> Monaco </option>
-			<option value="Montenegro"> Montenegro </option>
-			<option value="Norwegen"> Norwegen </option>
-			<option value="Österreich"> Österreich </option>
-			<option value="San Marino"> San Marino </option>
-			<option value="Tschechien"> Tschechien </option>
-			<option value="Ungarn"> Ungarn </option>
-		</select>
-		<button id ="Los" onclick ="Bildauswahl()"> Los! </button>
-		
-		<ul>
-			<li> <a href ="ESC-Websites.html"> Home </a> </li>
-			<li> <a href ="2010.html"> 2010 &nbsp; &nbsp; &nbsp; &nbsp; <i> Share the Moment </i> </a> </li> 
-			<li> <a href ="2011.html"> 2011 &nbsp; &nbsp; &nbsp; &nbsp; <i> Feel Your Heart Beat </i> </a> </li> 			
-			<li> <a href ="2012.html"> 2012 &nbsp; &nbsp; &nbsp; &nbsp; <i> Light Your Fire </i> </a> </li>
-			<li> <a href ="2013.html"> 2013 &nbsp; &nbsp; &nbsp; &nbsp; <i> We Are One </i> </a> </li>
-			<li> <a href ="2014.html"> 2014 &nbsp; &nbsp; &nbsp; &nbsp; <i> #JoinUs </i> </a> </li>			
-			<li> <a href ="2015.html"> 2015 &nbsp; &nbsp; &nbsp; &nbsp; <i> Building Bridges </i> </a> </li>
-			<li> <a href ="2016.html#Infobox"> 2016 &nbsp; &nbsp; &nbsp; &nbsp; <i> Come together </i> </a> </li>
-			<li> <a href ="Kontakt.html#Infobox"> Kontakt </a> &nbsp; &nbsp; <button id ="Rückmeldung" onclick ="Rückmeldung()"> Rückmeldung Klick mich an :-) </button> </li>
-		</ul>
-		
-<!-- Logo ESC -->		
-		
-		<article id ="Logo">
-		
-			<img src ="../Bilder/Logos/ESC.jpeg" id ="Logobild" alt ="Logo ESC">
-			
-		</article>
-		
-<!-- Logo EBU -->		
-		
-		<article id ="Bühne">
-		
-			<img src ="../Bilder/Logos/EBU.png" id ="Logobild2" alt ="Logo EBU">
-			
-		</article>
-		
-	</nav>
-		
-<!-- Informationstext zum ESC -->	
-		
-		<article id ="Infobox">
-			
-			<h3 id ="Infoüberschrift"> Informationen zum Eurovision-Song-Contest: </h3>
-	
-			<p id ="Informationstext"> Der Eurovision Song Contest (ESC; übersetzt „Liederwettbewerb der Eurovision“; bis 2001 in Deutschland 
-			unter dem französischen Namen Grand Prix Eurovision de la Chanson) ist ein internationaler Musikwettbewerb von Komponisten und 
-			Songschreibern, der seit 1956 jährlich von der Europäischen Rundfunkunion (EBU) im Rahmen der Eurovision veranstaltet wird. 
-			Die Anregung dazu war vom Sanremo-Festival beeinflusst, das bereits 1951 ins Leben gerufen wurde. Beim ESC sind die Rundfunkanstalten 
-			aller Staaten der EBU teilnahmeberechtigt. Dieser Rundfunkunion gehören mehrheitlich europäische und einige Radio- und Fernsehstationen 
-			benachbarter westasiatischer und nordafrikanischer Staaten an.
-			Da die Shows auch außerhalb des Sendegebiets der EBU übertragen werden, konnte der Eurovision Song Contest über die Jahre hinweg 
-			auch eine große Fangemeinde in Australien, Neuseeland, Teilen Asiens (Japan, China, Südkorea, Hongkong, Indien), Teilen Südamerikas, 
-			Kanada und den USA gewinnen. Insgesamt werden die Übertragungen des ESC von mehr als 200 Millionen Zuschauern gesehen. Im Jahr 2016 
-			erhielt der ESC die Karlsmedaille für europäische Medien. <br>
-			Seit dem Eurovision Song Contest 1957 entsenden die Rundfunkanstalten jedes teilnehmenden Landes ein Lied zum Eurovision Song Contest.
-			Der Wettbewerb findet seit 1958 regelmäßig im Land des Vorjahressiegers statt; nur wenige Male wurde hiervon abgewichen, zuletzt 1980.
-			Wegen der immer höheren Teilnehmerzahlen aufgrund des Beitritts vieler osteuropäischer Länder zur EBU fand von 2004 bis 2007 eine 
-			Vorausscheidung statt. Seit 2008 werden zwei als Halbfinale bezeichnete Vorausscheidungen ausgetragen.
-			Halbfinale und Finale bestehen aus zwei Teilen: Im etwa zweistündigen ersten Teil präsentieren die Teilnehmer ihren Song, im zweiten Teil 
-			vergeben die Teilnehmerländer ihre Punkte. Im Halbfinale dauert dieser Teil nur ca. 15 Minuten, da die Finalisten dort in zufälliger 
-			Reihenfolge und ohne die Verlesung aller einzelnen Punktevergaben bekannt gegeben werden. Im Finale dauert dieser zweite Teil eine gute 
-			Stunde. Die Überleitung von Teil eins zu Teil zwei – die Zeit, in der die Zuschauer zu Hause ihre Stimmen abgeben können – dauert ungefähr 
-			15 Minuten, die auf der Bühne durch ein Showprogramm, den sogenannten interval act, überbrückt werden.
-			</p>
-	
-		</article>
-		
-	</body>
+<head>
+    <title> ESC-Mediathek </title>
+    <link rel ="stylesheet" type ="text/css" href ="../CSS/ESC.css">
+    <meta charset="utf-8">
+    <script type ="text/javascript" src ="../Javascript/ESC.js"> </script>
+</head>
+<body>
+
+<!-- Titelbild -->
+
+<header>
+    <img src="../Bilder/Titelbilder/ESC.png" id ="Titelbild" alt ="Eurovision-Song-Contest">
+</header>
+
+<!-- Navigationsmenü -->
+
+<nav>
+
+    <img id ="Menürotation" src ="../Bilder/ESC-Überschrift/ESC-Überschrift.png" alt ="ESC-Überschrift">
+
+    <h1 id ="Menüüberschrift"> Welches ESC-Land gefällt Ihnen am Besten? </h1>
+
+    <select id="ESCLand" name="ESCLand" required>
+        <option value="ESC-Überschrift"> Alle </option>
+        <option value="Belgien"> Belgien </option>
+        <option value="Griechenland"> Griechenland </option>
+        <option value="Island"> Island </option>
+        <option value="Portugal"> Portugal </option>
+        <option value="Serbien"> Serbien </option>
+        <option value="Albanien"> Albanien </option>
+        <option value="Russland"> Russland </option>
+        <option value="Bosnien-Herzegowina"> Bosnien-Herzegowina </option>
+        <option value="Weißrussland"> Weißrussland </option>
+        <option value="Moldau"> Moldau </option>
+        <option value="Finnland"> Finnland </option>
+        <option value="Malta"> Malta </option>
+        <option value="Polen"> Polen </option>
+        <option value="Estland"> Estland </option>
+        <option value="Mazedonien"> Mazedonien </option>
+        <option value="Slowakei"> Slowakei </option>
+        <option value="Lettland"> Lettland </option>
+        <option value="Türkei"> Türkei </option>
+        <option value="Aserbaidschan"> Aserbaidschan </option>
+        <option value="Georgien"> Georgien </option>
+        <option value="Rumänien"> Rumänien </option>
+        <option value="Dänemark"> Dänemark </option>
+        <option value="Armenien"> Armenien </option>
+        <option value="Ukraine"> Ukraine </option>
+        <option value="Israel"> Israel </option>
+        <option value="Irland"> Irland </option>
+        <option value="Zypern"> Zypern </option>
+        <option value="Schweden"> Schweden </option>
+        <option value="Litauen"> Litauen </option>
+        <option value="Kroatien"> Kroatien </option>
+        <option value="Niederlande"> Niederlande </option>
+        <option value="Bulgarien"> Bulgarien </option>
+        <option value="Slowenien"> Slowenien </option>
+        <option value="Schweiz"> Schweiz </option>
+        <option value="Deutschland"> Deutschland </option>
+        <option value="Frankreich"> Frankreich </option>
+        <option value="Spanien"> Spanien </option>
+        <option value="Großbritannien"> Großbritannien </option>
+        <option value="Andorra"> Andorra </option>
+        <option value="Australien"> Australien </option>
+        <option value="Luxemburg"> Luxemburg </option>
+        <option value="Marokko"> Marokko </option>
+        <option value="Monaco"> Monaco </option>
+        <option value="Montenegro"> Montenegro </option>
+        <option value="Norwegen"> Norwegen </option>
+        <option value="Österreich"> Österreich </option>
+        <option value="San Marino"> San Marino </option>
+        <option value="Tschechien"> Tschechien </option>
+        <option value="Ungarn"> Ungarn </option>
+    </select>
+    <button id ="Los" onclick ="Bildauswahl()"> Los! </button>
+
+    <ul>
+        <li> <a href ="ESC-Websites.html"> Home </a> </li>
+        <li> <a href ="2010.html"> 2010 &nbsp; &nbsp; &nbsp; &nbsp; <i> Share the Moment </i> </a> </li>
+        <li> <a href ="2011.html"> 2011 &nbsp; &nbsp; &nbsp; &nbsp; <i> Feel Your Heart Beat </i> </a> </li>
+        <li> <a href ="2012.html"> 2012 &nbsp; &nbsp; &nbsp; &nbsp; <i> Light Your Fire </i> </a> </li>
+        <li> <a href ="2013.html"> 2013 &nbsp; &nbsp; &nbsp; &nbsp; <i> We Are One </i> </a> </li>
+        <li> <a href ="2014.html"> 2014 &nbsp; &nbsp; &nbsp; &nbsp; <i> #JoinUs </i> </a> </li>
+        <li> <a href ="2015.html"> 2015 &nbsp; &nbsp; &nbsp; &nbsp; <i> Building Bridges </i> </a> </li>
+        <li> <a href ="2016.html#Infobox"> 2016 &nbsp; &nbsp; &nbsp; &nbsp; <i> Come together </i> </a> </li>
+        <li> <a href ="Kontakt.html#Infobox"> Kontakt </a> &nbsp; &nbsp; <button id ="Rückmeldung" onclick ="Rückmeldung()"> Rückmeldung Klick mich an :-) </button> </li>
+    </ul>
+
+    <!-- Logo ESC -->
+
+    <article id ="Logo">
+
+        <img src ="../Bilder/Logos/ESC.jpeg" id ="Logobild" alt ="Logo ESC">
+
+    </article>
+
+    <!-- Logo EBU -->
+
+    <article id ="Bühne">
+
+        <img src ="../Bilder/Logos/EBU.png" id ="Logobild2" alt ="Logo EBU">
+
+    </article>
+
+</nav>
+
+<!-- Informationstext zum ESC -->
+
+<article id ="Infobox">
+
+    <h3 id ="Infoüberschrift"> Informationen zum Eurovision-Song-Contest: </h3>
+
+    <p id ="Informationstext"> Der Eurovision Song Contest (ESC; übersetzt „Liederwettbewerb der Eurovision“; bis 2001 in Deutschland
+        unter dem französischen Namen Grand Prix Eurovision de la Chanson) ist ein internationaler Musikwettbewerb von Komponisten und
+        Songschreibern, der seit 1956 jährlich von der Europäischen Rundfunkunion (EBU) im Rahmen der Eurovision veranstaltet wird.
+        Die Anregung dazu war vom Sanremo-Festival beeinflusst, das bereits 1951 ins Leben gerufen wurde. Beim ESC sind die Rundfunkanstalten
+        aller Staaten der EBU teilnahmeberechtigt. Dieser Rundfunkunion gehören mehrheitlich europäische und einige Radio- und Fernsehstationen
+        benachbarter westasiatischer und nordafrikanischer Staaten an.
+        Da die Shows auch außerhalb des Sendegebiets der EBU übertragen werden, konnte der Eurovision Song Contest über die Jahre hinweg
+        auch eine große Fangemeinde in Australien, Neuseeland, Teilen Asiens (Japan, China, Südkorea, Hongkong, Indien), Teilen Südamerikas,
+        Kanada und den USA gewinnen. Insgesamt werden die Übertragungen des ESC von mehr als 200 Millionen Zuschauern gesehen. Im Jahr 2016
+        erhielt der ESC die Karlsmedaille für europäische Medien. <br>
+        Seit dem Eurovision Song Contest 1957 entsenden die Rundfunkanstalten jedes teilnehmenden Landes ein Lied zum Eurovision Song Contest.
+        Der Wettbewerb findet seit 1958 regelmäßig im Land des Vorjahressiegers statt; nur wenige Male wurde hiervon abgewichen, zuletzt 1980.
+        Wegen der immer höheren Teilnehmerzahlen aufgrund des Beitritts vieler osteuropäischer Länder zur EBU fand von 2004 bis 2007 eine
+        Vorausscheidung statt. Seit 2008 werden zwei als Halbfinale bezeichnete Vorausscheidungen ausgetragen.
+        Halbfinale und Finale bestehen aus zwei Teilen: Im etwa zweistündigen ersten Teil präsentieren die Teilnehmer ihren Song, im zweiten Teil
+        vergeben die Teilnehmerländer ihre Punkte. Im Halbfinale dauert dieser Teil nur ca. 15 Minuten, da die Finalisten dort in zufälliger
+        Reihenfolge und ohne die Verlesung aller einzelnen Punktevergaben bekannt gegeben werden. Im Finale dauert dieser zweite Teil eine gute
+        Stunde. Die Überleitung von Teil eins zu Teil zwei – die Zeit, in der die Zuschauer zu Hause ihre Stimmen abgeben können – dauert ungefähr
+        15 Minuten, die auf der Bühne durch ein Showprogramm, den sogenannten interval act, überbrückt werden.
+    </p>
+
+</article>
+
+</body>
 </html>
